@@ -19,7 +19,7 @@ ui <- dashboardPage(
   dashboardBody(
     # Changing theme <- this needs to go inside the dashboardBody
     shinyDashboardThemes(
-      theme = "purple_gradient"
+      theme = "grey_dark"
     ),
     tabItems(
       # First tab content <- general overview
@@ -38,17 +38,35 @@ ui <- dashboardPage(
         tabName = "map",
         h2("tab content"),
         fluidRow(
-          box(
-            title = "Select Year",
-            width = 3
+          column(width = 3,
+                 box(
+                   title = "Select Year",
+                   width = NULL
+                 ),
+                 box(
+                   title = "Select Metric",
+                   width = NULL
+                 ),
+                 box(
+                   title = "Select Ratio or Count",
+                   width = NULL
+                 )
           ),
-          box(
-            title = "Map",
-            width = 6
+          column(width = 6,
+                 box(
+                   title = "Map",
+                   width = NULL
+                 ),
+                 box(
+                   title = "graph/table",
+                   width = NULL
+                 )
           ),
-          box(
-            title = "Description of Data",
-            width = 3
+          column(width = 3,
+                 box(
+                   title = "text description",
+                   width = NULL
+                 )
           )
         )
       ),
