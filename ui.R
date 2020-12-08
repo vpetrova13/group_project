@@ -13,13 +13,13 @@ ui <- dashboardPage(
     sidebarMenu(
       menuItem("Overview", tabName = "overview", icon = icon("align-justify")),
       menuItem("Map", tabName = "map", icon = icon("stop")),
-      menuItem("Regional Overview", tabName = "regional overview", icon = icon("signal"))
+      menuItem("Regional Overview", tabName = "regional", icon = icon("signal"))
     )
   ),
   dashboardBody(
     # Changing theme <- this needs to go inside the dashboardBody
     shinyDashboardThemes(
-      theme = "grey_dark"
+      theme = "purple_gradient"
     ),
     tabItems(
       # First tab content <- general overview
@@ -105,7 +105,7 @@ ui <- dashboardPage(
       ),
       # Third tab content <- table and graph
       tabItem(
-        tabName = "regional overview",
+        tabName = "regional",
         h2("Healthboard specific data"),
         
         fluidRow(
