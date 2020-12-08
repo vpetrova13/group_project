@@ -1,0 +1,7 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# Insights into hospital admissions data in Scotland
+
