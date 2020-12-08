@@ -13,13 +13,13 @@ ui <- dashboardPage(
     sidebarMenu(
       menuItem("Overview", tabName = "overview", icon = icon("align-justify")),
       menuItem("Map", tabName = "map", icon = icon("stop")),
-      menuItem("Regional Overview", tabName = "regional overview", icon = icon("signal"))
+      menuItem("Regional Overview", tabName = "regional", icon = icon("signal"))
     )
   ),
   dashboardBody(
     # Changing theme <- this needs to go inside the dashboardBody
     shinyDashboardThemes(
-      theme = "grey_dark"
+      theme = "purple_gradient"
     ),
     tabItems(
       # First tab content <- general overview
@@ -28,25 +28,33 @@ ui <- dashboardPage(
         h2("tab content"),
         fluidRow(
           box(
-            title = "selection 1",
-            width = 4
+            width = 4,
+            selectInput("year", label = h4("Select Year"), 
+                        choices = unique(general_age_sex$financial_year), 
+                        selected = "2019/20")
           ),
           
           box(
-            title = "graph 1",
-            width = 8
+            width = 8,
+            plotOutput("age_sex_plot")
           )
         ),
         
         fluidRow(
           box(
-            title = "selection 2",
-            width = 4
+            width = 4, 
+            radioButtons("sex", label = h4("Select Gender"),
+                         choices = list("Female" = "Female", "Male" = "Male", 
+                                        "All" = "All Sexes"), 
+                         selected = "All Sexes"),
+            selectInput("age", label = h4("Select Age Group"), 
+                        choices = unique(general_age_sex$age), 
+                        selected = "All Ages")
           ),
           
           box(
-            title = "graph 2",
-            width = 8
+            width = 8, 
+            plotOutput("agesex_admission_plot")
           )
         ),
         
@@ -105,7 +113,7 @@ ui <- dashboardPage(
       ),
       # Third tab content <- table and graph
       tabItem(
-        tabName = "regional overview",
+        tabName = "regional",
         h2("tab content"),
         
         fluidRow(

@@ -1,6 +1,6 @@
 create_agesex_admission <- function(input, data) {
   renderPlot({
-    data() %>% 
+    general_age_sex %>% 
       filter(sex == input$sex) %>% 
       filter(age == input$age) %>% 
       filter(admission_type != "All Inpatients and Daycases", admission_type != "Day case") %>% 
@@ -15,7 +15,8 @@ create_agesex_admission <- function(input, data) {
         x = "Year",
         y = "Number of stays",
         fill = "Admission Type"
-      ) + theme(legend.position = "none")
+      ) + theme(legend.position = "none") +
+      scale_y_continuous(breaks = c(0,2,4,6,8,10,12,14,16,18,20, 22))
   }
   )
 }
