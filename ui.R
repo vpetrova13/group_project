@@ -28,8 +28,37 @@ ui <- dashboardPage(
         h2("tab content"),
         fluidRow(
           box(
-            title = "graph",
+            title = "selection 1",
             width = 4
+          ),
+          
+          box(
+            title = "graph 1",
+            width = 8
+          )
+        ),
+        
+        fluidRow(
+          box(
+            title = "selection 2",
+            width = 4
+          ),
+          
+          box(
+            title = "graph 2",
+            width = 8
+          )
+        ),
+        
+        fluidRow(
+          box(
+            title = "selection 3",
+            width = 4
+          ),
+          
+          box(
+            title = "graph 3",
+            width = 8
           )
         )
       ),
@@ -71,14 +100,45 @@ ui <- dashboardPage(
               title = "text description",
               width = NULL
             )
-            
           )
         )
       ),
       # Third tab content <- table and graph
       tabItem(
         tabName = "regional overview",
-        h2("tab content")
+        h2("tab content"),
+        
+        fluidRow(
+          
+          column(width = 3,
+                 box(
+                   title = "selection 1",
+                   width = NULL
+                 ),
+                 box(
+                   title = "selection 2",
+                   width = NULL
+                 )
+          ),
+          
+          column(width = 6,
+                 box(
+                   title = "bar graph",
+                   width = NULL
+                 ),
+                 box(
+                   title = "table",
+                   width = NULL
+                 )
+          ),
+          
+          column(width = 3,
+                 box(
+                   title = "text description",
+                   width = NULL
+                 )
+          )
+        )
       )
     )
   )
