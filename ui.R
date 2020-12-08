@@ -106,7 +106,7 @@ ui <- dashboardPage(
       # Third tab content <- table and graph
       tabItem(
         tabName = "regional overview",
-        h2("tab content"),
+        h2("Healthboard specific data"),
         
         fluidRow(
           
