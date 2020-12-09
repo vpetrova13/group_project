@@ -138,7 +138,8 @@ ui <- dashboardPage(
           column(width = 9,
                  box(
                    title = "bar graph",
-                   width = NULL
+                   width = NULL,
+                   plotOutput("histogram")
                  ),
                  box(
                    title = "table",
