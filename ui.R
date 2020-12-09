@@ -60,13 +60,25 @@ ui <- dashboardPage(
         
         fluidRow(
           box(
-            title = "selection 3",
-            width = 4
+            width = 4,
+            
+            #####
+            selectInput("year",
+                        "Select Year",
+                        choices = unique(department_data$financial_year)),
+            
+            selectInput("department",
+                        "Select Department",
+                        choices = unique(department_data$department)),
+            
+            actionButton("update", "Thank you NHS")
+            #####
           ),
           
           box(
-            title = "graph 3",
-            width = 8
+            width = 8,
+            
+            tableOutput("department_table_output")
           )
         )
       ),
