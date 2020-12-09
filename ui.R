@@ -1,7 +1,7 @@
 # UI 
 ui <- dashboardPage(
   dashboardHeader(
-    title = "Health Scotland",
+    title = h3("Health Scotland"),
     dropdownMenu(type = "notifications",
                  notificationItem(
                    text = "information",
