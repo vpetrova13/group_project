@@ -1,0 +1,631 @@
+feature_code,date_code,value_per_one_hundred_thousand_people,alcohol_condition,type_of_hospital
+NHS Western Isles,2013/2014,612,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2014/2015,44.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2011/2012,753.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2014/2015,403.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2017/2018,90.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2014/2015,13.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2015/2016,27,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2012/2013,90.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2011/2012,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2015/2016,91.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2015/2016,727.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2018/2019,78.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2016/2017,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2010/2011,60.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2012/2013,615.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2014/2015,83.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2017/2018,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2014/2015,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2013/2014,125.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2010/2011,721.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2010/2011,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2011/2012,18,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2016/2017,150.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2011/2012,132.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2013/2014,837.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2016/2017,555.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2014/2015,783.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2011/2012,18,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2018/2019,149.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2011/2012,107.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2010/2011,117.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2011/2012,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2018/2019,747.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Ayrshire and Arran,2012/2013,121.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2013/2014,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2010/2011,1011.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Ayrshire and Arran,2015/2016,91.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2017/2018,761.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2013/2014,579.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2016/2017,74.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2012/2013,539.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2016/2017,32,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2018/2019,848.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2013/2014,44.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2013/2014,68.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2011/2012,56.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2012/2013,716.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2012/2013,60.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2016/2017,13.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2017/2018,705.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2014/2015,335.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2014/2015,13.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2013/2014,448.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2016/2017,320.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2012/2013,440.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2016/2017,784.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2012/2013,60.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2018/2019,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2010/2011,466.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2015/2016,604.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2012/2013,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2016/2017,450.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2010/2011,58.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2018/2019,160.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2011/2012,63.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2011/2012,624.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2014/2015,149.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2017/2018,175.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2014/2015,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2015/2016,27,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2016/2017,48.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2016/2017,805.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2018/2019,92.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2013/2014,683.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2014/2015,576,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2018/2019,618.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2014/2015,83.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2017/2018,60.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2015/2016,70.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2010/2011,49.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2016/2017,632.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2017/2018,38,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2011/2012,76.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2017/2018,568.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2017/2018,525.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2014/2015,24,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2011/2012,497.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Borders,2017/2018,408.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2010/2011,49.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2015/2016,346.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2015/2016,164,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2010/2011,21.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2016/2017,48.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2016/2017,172.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2011/2012,553,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2010/2011,623.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2013/2014,753.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2012/2013,65.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2017/2018,812.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2010/2011,423.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2015/2016,765.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2014/2015,729.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2014/2015,24,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2011/2012,721.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2012/2013,705.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2017/2018,324.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2015/2016,65.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2011/2012,756.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2013/2014,15,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2018/2019,52.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2011/2012,124,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2012/2013,134.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2013/2014,871.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2013/2014,44.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2010/2011,113.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2017/2018,60.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2012/2013,74.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2018/2019,345,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2012/2013,636.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2015/2016,510.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2018/2019,807.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2010/2011,21.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2014/2015,618.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2010/2011,93.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2013/2014,102.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2010/2011,1046.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2018/2019,52.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2012/2013,804.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2011/2012,929.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2014/2015,97.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2015/2016,23,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2015/2016,83.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Western Isles,2016/2017,10.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2018/2019,11.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2018/2019,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2015/2016,23,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2015/2016,710.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2017/2018,21.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2018/2019,592.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2018/2019,85.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2014/2015,475.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2011/2012,744.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2012/2013,90.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2010/2011,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2013/2014,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2014/2015,83.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2010/2011,803,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2015/2016,569,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2017/2018,595.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2013/2014,628.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2015/2016,526.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2017/2018,14.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2012/2013,661,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2012/2013,20.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2016/2017,619,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2015/2016,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Western Isles,2016/2017,77.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2016/2017,75.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2016/2017,76.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2012/2013,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2016/2017,786.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2012/2013,24.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2018/2019,86.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2015/2016,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2013/2014,87.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2010/2011,613.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Western Isles,2012/2013,61.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2012/2013,850.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Ayrshire and Arran,2011/2012,972.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2010/2011,681.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2010/2011,106.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2013/2014,538.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2018/2019,507,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2014/2015,150.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2014/2015,587.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Ayrshire and Arran,2011/2012,99.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Ayrshire and Arran,2013/2014,87.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2017/2018,37.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2011/2012,99.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2017/2018,91.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Western Isles,2018/2019,995.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Western Isles,2013/2014,10.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2017/2018,139.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Ayrshire and Arran,2010/2011,106.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Ayrshire and Arran,2015/2016,136,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2013/2014,54.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2015/2016,48.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2014/2015,49.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2012/2013,536,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2011/2012,618.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2015/2016,490.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2010/2011,317.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Fife,2018/2019,496.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Fife,2013/2014,483.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2013/2014,457.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2016/2017,491.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2016/2017,478.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2016/2017,21.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2011/2012,107.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2011/2012,18.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2015/2016,101.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2010/2011,20.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2018/2019,523.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2018/2019,492.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2018/2019,18,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2017/2018,482.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2017/2018,489.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2015/2016,417.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2011/2012,86.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2010/2011,111.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2017/2018,42.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2014/2015,468.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2010/2011,64.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2016/2017,45.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2014/2015,49.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2010/2011,669.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2014/2015,99.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2015/2016,80.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2011/2012,138.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2018/2019,112.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2012/2013,629.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2014/2015,603.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2015/2016,461.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Fife,2011/2012,346.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Fife,2012/2013,444.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2013/2014,92.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2013/2014,610.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2012/2013,83.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2016/2017,102.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2017/2018,117.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2018/2019,110.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2012/2013,131.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2011/2012,468.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2010/2011,452.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2015/2016,12.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2014/2015,368.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2010/2011,66.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2015/2016,356.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2012/2013,57.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2017/2018,19,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2010/2011,65,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2013/2014,15.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2016/2017,93.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2011/2012,72.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2013/2014,1330.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2012/2013,1429.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2018/2019,87.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2018/2019,177.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2015/2016,64.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2015/2016,12.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2017/2018,43.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2014/2015,486.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2014/2015,11.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2010/2011,98.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2018/2019,18.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2013/2014,532.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Grampian,2010/2011,19.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2011/2012,61.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2012/2013,463.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2018/2019,42.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2018/2019,89.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2016/2017,46.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2012/2013,16.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2017/2018,355.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2014/2015,11.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2011/2012,18.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2018/2019,347.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2013/2014,401.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2016/2017,367.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2017/2018,19,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2014/2015,92.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2012/2013,90.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2012/2013,16.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Grampian,2017/2018,98.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2013/2014,15.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Grampian,2012/2013,410.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2016/2017,87.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2013/2014,92.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Grampian,2016/2017,21.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2017/2018,606.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2016/2017,46.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2018/2019,42.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2013/2014,24.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2012/2013,23,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2011/2012,37.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2010/2011,39.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2014/2015,679.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2011/2012,75.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2011/2012,554.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2014/2015,56.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2010/2011,96.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Highland,2013/2014,78.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Highland,2018/2019,41.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2011/2012,65.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2017/2018,23.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2013/2014,53.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2011/2012,37.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2010/2011,39.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2011/2012,567.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2015/2016,58.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2013/2014,637,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2014/2015,630,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2018/2019,674.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2010/2011,613.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2014/2015,57.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2010/2011,71.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2014/2015,524.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2015/2016,661.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2016/2017,97.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2017/2018,644.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2013/2014,667.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2012/2013,628.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2013/2014,63.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2011/2012,733.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2018/2019,643.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2010/2011,583.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2012/2013,101.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2016/2017,145.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2017/2018,23.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2013/2014,95.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2016/2017,108.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2016/2017,28.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2014/2015,25.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2015/2016,101.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Highland,2014/2015,97.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Highland,2015/2016,111.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Highland,2017/2018,51.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2014/2015,25.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2014/2015,126.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2014/2015,101,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2016/2017,28.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2013/2014,24.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2018/2019,24.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2018/2019,116.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2017/2018,107.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2015/2016,28.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Fife,2015/2016,28.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2012/2013,23,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2015/2016,609.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2016/2017,641.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Fife,2018/2019,24.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2012/2013,71.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2017/2018,102.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2014/2015,454.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2017/2018,51.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2018/2019,95.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2015/2016,128.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2011/2012,377.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2018/2019,364.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2015/2016,571,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2017/2018,334.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2017/2018,527.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2011/2012,61.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2010/2011,400.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2016/2017,546.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2013/2014,382.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2017/2018,450.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2015/2016,356.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2012/2013,375.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2010/2011,71,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2017/2018,132.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2018/2019,384.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2010/2011,152.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2013/2014,128.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2014/2015,386.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Grampian,2010/2011,604.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2011/2012,463.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2016/2017,624.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2012/2013,56.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Fife,2011/2012,83.6,Alcoholic Liver Disease,General Acute Hospital
+NHS Lothian,2011/2012,663.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2013/2014,522.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lothian,2016/2017,395.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Fife,2010/2011,92.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Fife,2012/2013,87.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Tayside,2013/2014,493.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2016/2017,94.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2017/2018,85.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2015/2016,48.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lothian,2010/2011,449.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2010/2011,559.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2016/2017,94.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2010/2011,118.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2012/2013,493,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2011/2012,500,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2012/2013,694.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2011/2012,101.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2015/2016,451.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Lothian,2018/2019,41.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2017/2018,85.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2013/2014,65,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lothian,2017/2018,366.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Highland,2010/2011,765.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2015/2016,57.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2018/2019,488.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2018/2019,84,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2014/2015,83.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2013/2014,75.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2016/2017,47.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2015/2016,494,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2016/2017,343.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2014/2015,83,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2018/2019,83.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2018/2019,487.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2012/2013,68.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Highland,2012/2013,528.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2014/2015,508.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Highland,2016/2017,477.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Tayside,2015/2016,89.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2011/2012,101.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2015/2016,89.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Tayside,2016/2017,467.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2017/2018,465.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Tayside,2012/2013,68.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2010/2011,118.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2012/2013,73.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Highland,2011/2012,67,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Tayside,2013/2014,75.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2016/2017,82.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2015/2016,55.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2014/2015,116,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2013/2014,120.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2012/2013,58,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2016/2017,542.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2017/2018,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2017/2018,469.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2011/2012,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2015/2016,113.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2017/2018,49.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2010/2011,100.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2016/2017,59.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2014/2015,42,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2017/2018,35.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2013/2014,519.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2013/2014,44.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2012/2013,57.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2013/2014,44.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2011/2012,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2015/2016,40.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2014/2015,51.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2015/2016,461.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2014/2015,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2015/2016,212.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2016/2017,221.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2016/2017,57.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2015/2016,54.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2013/2014,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2016/2017,448.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2010/2011,136.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2011/2012,317.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2010/2011,100.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2018/2019,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2013/2014,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2018/2019,69.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2011/2012,90.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2015/2016,698.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2018/2019,282.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2011/2012,1679.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2017/2018,92.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2014/2015,97.8,Alcoholic Liver Disease,General Acute Hospital
+NHS Lanarkshire,2018/2019,53.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2015/2016,39.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2015/2016,102,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2014/2015,410,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2012/2013,106.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2015/2016,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2011/2012,499.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2014/2015,51.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2010/2011,104.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2018/2019,32.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2017/2018,742.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2010/2011,523.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2015/2016,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2010/2011,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2018/2019,36.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2016/2017,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Borders,2014/2015,459.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2012/2013,556.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2017/2018,50.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2013/2014,149.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2011/2012,80,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2011/2012,55,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2018/2019,36.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Shetland,2017/2018,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Lanarkshire,2014/2015,41.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2010/2011,58.4,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2015/2016,444.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2014/2015,571.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Lanarkshire,2016/2017,613.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2015/2016,672.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2013/2014,567.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Shetland,2018/2019,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Borders,2010/2011,63.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2013/2014,77.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Borders,2018/2019,449.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2010/2011,543.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Borders,2017/2018,38,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Lanarkshire,2011/2012,63.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Shetland,2011/2012,956.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2010/2011,1620,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2011/2012,77.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2012/2013,486.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2016/2017,30.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2015/2016,554.9,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2012/2013,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2018/2019,32.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2017/2018,118.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2013/2014,1411,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2012/2013,56.1,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2013/2014,60.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Dumfries and Galloway,2018/2019,425.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2018/2019,674.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Shetland,2017/2018,631.1,All other Alcoholic Conditions,General Acute Hospital
+NHS Lanarkshire,2017/2018,638.3,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2018/2019,697.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2014/2015,728.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2013/2014,93.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Shetland,2016/2017,604.4,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2012/2013,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2014/2015,82,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2012/2013,443.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2015/2016,75.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2011/2012,1500.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2014/2015,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2012/2013,69.3,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2015/2016,66,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2011/2012,61.9,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2017/2018,50.5,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2018/2019,50.4,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2010/2011,74.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2010/2011,68.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2018/2019,440.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2014/2015,68,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2018/2019,50.1,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2013/2014,83.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2018/2019,517.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2016/2017,85.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2018/2019,737.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2017/2018,88.4,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2015/2016,96.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2010/2011,410.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2014/2015,781.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2011/2012,60.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2010/2011,1740.7,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2012/2013,1536.3,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2018/2019,68.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2016/2017,60.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2010/2011,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2014/2015,84.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2015/2016,1011.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2014/2015,56.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2018/2019,67.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2018/2019,927.6,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2017/2018,981,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2016/2017,1059.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2014/2015,982,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2018/2019,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2013/2014,1014.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2012/2013,80.5,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2012/2013,60.8,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2010/2011,1168.9,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2012/2013,992,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2016/2017,67.2,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2011/2012,1107.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Dumfries and Galloway,2016/2017,283.1,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2017/2018,216.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2010/2011,303,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2018/2019,543,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2013/2014,59.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2014/2015,222.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2012/2013,66,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2011/2012,58.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2012/2013,788.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2012/2013,193,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2010/2011,907,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2017/2018,776.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2017/2018,35.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2012/2013,55.2,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2013/2014,799.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2016/2017,434.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2017/2018,293,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2014/2015,247.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2010/2011,229.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Orkney,2017/2018,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2011/2012,77.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2016/2017,848,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2015/2016,805,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2016/2017,30.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Dumfries and Galloway,2015/2016,270.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2013/2014,81,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Orkney,2016/2017,0,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2016/2017,0,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2010/2011,287.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2017/2018,426.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2010/2011,70.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Orkney,2017/2018,599,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2011/2012,58.7,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2012/2013,332.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Orkney,2014/2015,588.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2016/2017,366.2,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2012/2013,60.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2011/2012,327.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2013/2014,61.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2010/2011,69.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2014/2015,56.3,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2013/2014,208.9,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2013/2014,61.6,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Forth Valley,2013/2014,372.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2014/2015,369.4,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2015/2016,382.5,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2016/2017,56.9,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2017/2018,50.5,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2015/2016,494.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2017/2018,510.2,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2012/2013,61.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2013/2014,66.7,Alcoholic Liver Disease,General Acute Hospital
+NHS Forth Valley,2016/2017,461.8,All other Alcoholic Conditions,General Acute Hospital
+NHS Greater Glasgow and Clyde,2011/2012,204.1,Alcoholic Liver Disease,General Acute Hospital
+NHS Dumfries and Galloway,2013/2014,314.7,Mental and Behavioural Disorders,General Acute Hospital
+NHS Dumfries and Galloway,2012/2013,302.6,Mental and Behavioural Disorders,General Acute Hospital
+NHS Forth Valley,2015/2016,74.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2013/2014,495.5,All other Alcoholic Conditions,General Acute Hospital
+NHS Orkney,2011/2012,129.2,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2011/2012,876.8,Mental and Behavioural Disorders,General Acute Hospital
+NHS Greater Glasgow and Clyde,2017/2018,62.7,All other Alcoholic Conditions,Psychiatric Hospital
+NHS Greater Glasgow and Clyde,2018/2019,189.3,Alcoholic Liver Disease,General Acute Hospital
+NHS Greater Glasgow and Clyde,2017/2018,61.6,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2014/2015,470,All other Alcoholic Conditions,General Acute Hospital
+NHS Forth Valley,2016/2017,66.8,Mental and Behavioural Disorders,Psychiatric Hospital
+NHS Forth Valley,2011/2012,456.3,All other Alcoholic Conditions,General Acute Hospital

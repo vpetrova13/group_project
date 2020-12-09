@@ -113,7 +113,11 @@ ui <- dashboardPage(
           column(width = 3,
                  box(
                    title = "selection 1",
-                   width = NULL
+                   width = NULL,
+                   selectInput("date_code",
+                   "Which year?",
+                   choices = unique(alcohol_table$date_code)
+                   )
                  ),
                  box(
                    title = "selection 2",
@@ -128,7 +132,10 @@ ui <- dashboardPage(
                  ),
                  box(
                    title = "table",
-                   width = NULL
+                   width = NULL,
+                   div(style = 'overflow-x: scroll',
+                   DT::dataTableOutput("table_output")),
+                   status = "primary"
                  )
           ),
           

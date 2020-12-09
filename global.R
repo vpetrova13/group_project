@@ -4,11 +4,12 @@ library(shiny)
 library(shinydashboard)
 library(tidyverse)
 library(dashboardthemes)
+library(DT)
 # general <- read_csv()
 
 
 
 # 
 general_age_sex <- read_csv("data/sex_age_clean_data.csv")
-
+alcohol_table <- read_csv("data/clean_alcohol.csv")
 # cleaning
