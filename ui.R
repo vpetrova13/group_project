@@ -28,21 +28,21 @@ ui <- dashboardPage(
         h2("tab content"),
         fluidRow(
           box(
-            width = 4,
+            width = 3,
             selectInput("year", label = h4("Select Year"), 
                         choices = unique(general_age_sex$financial_year), 
                         selected = "2019/20")
           ),
           
           box(
-            width = 8,
+            width = 9,
             plotOutput("age_sex_plot")
           )
         ),
         
         fluidRow(
           box(
-            width = 4, 
+            width = 3, 
             radioButtons("sex", label = h4("Select Gender"),
                          choices = list("Female" = "Female", "Male" = "Male", 
                                         "All" = "All Sexes"), 
@@ -53,14 +53,14 @@ ui <- dashboardPage(
           ),
           
           box(
-            width = 8, 
+            width = 9, 
             plotOutput("agesex_admission_plot")
           )
         ),
         
         fluidRow(
           box(
-            width = 4,
+            width = 3,
             
             #####
             selectInput("year",
@@ -76,7 +76,7 @@ ui <- dashboardPage(
           ),
           
           box(
-            width = 8,
+            width = 9,
             
             tableOutput("department_table_output")
           )
@@ -91,27 +91,37 @@ ui <- dashboardPage(
           
           column(width = 3,
             box(
-              title = "Select Year",
-              width = NULL
+              width = NULL,
+              selectInput("year", label = h4("Select Year"), 
+                          choices = unique(alcoholic_map_data$year), 
+                          selected = "2018/2019")
             ),
             box(
-              title = "Select Metric",
-              width = NULL
+              width = NULL,
+              selectInput("hb", label = h4("Select Health Board"), 
+                          choices = unique(alcoholic_map_data$HBName),
+                          selected = "Lothian")
             ),
             box(
-              title = "Select Ratio or Count",
-              width = NULL
+              width = NULL, 
+              radioButtons("ratio_count", label = h4("Select Ratio or Count"),
+                           choices = list("Ratio" = "ratio", "Count" = "count"),
+                           selected = "ratio")
+            ),
+            box(
+              width = NULL,
+              actionButton("update_map", "Show map & data")
             )
           ),
           
           column(width = 6,
             box(
-              title = "Map",
-              width = NULL
+              width = NULL, 
+              plotOutput("alcoholic_map")
             ),
             box(
-              title = "graph/table",
-              width = NULL
+              width = NULL,
+              plotOutput("alcoholic_plot")
             )
           ),
           
