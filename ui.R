@@ -112,7 +112,6 @@ ui <- dashboardPage(
           
           column(width = 3,
                  box(
-                   title = "selection 1",
                    width = NULL,
                    selectInput("date_code",
                    "Which year?",
@@ -120,12 +119,23 @@ ui <- dashboardPage(
                    )
                  ),
                  box(
-                   title = "selection 2",
-                   width = NULL
+                   width = NULL,
+                   radioButtons("alcohol_condition",
+                   "Condition type",
+                   choices = unique(alcohol_table$alcohol_condition)
+                   )
+                 ),
+                 box(
+                   width = NULL,
+                   radioButtons("type_of_hospital",
+                   "Type of hospital",
+                   choices = unique(alcohol_table$type_of_hospital)
+                   )
                  )
+                 
           ),
           
-          column(width = 6,
+          column(width = 9,
                  box(
                    title = "bar graph",
                    width = NULL
@@ -136,13 +146,6 @@ ui <- dashboardPage(
                    div(style = 'overflow-x: scroll',
                    DT::dataTableOutput("table_output")),
                    status = "primary"
-                 )
-          ),
-          
-          column(width = 3,
-                 box(
-                   title = "text description",
-                   width = NULL
                  )
           )
         )
