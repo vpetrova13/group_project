@@ -1,6 +1,6 @@
 create_agesex_bar <- function(input, data) {
   renderPlot({
-    data() %>% 
+    general_age_sex %>% 
       filter(admission_type == "All Inpatients and Daycases") %>% 
       filter(sex != "All Sexes") %>% 
       filter(!is.na(age_factor)) %>% 
@@ -16,7 +16,8 @@ create_agesex_bar <- function(input, data) {
         x = "Ages",
         y = "Number of stays",
         fill = "Gender"
-      ) 
+      ) +
+      scale_y_continuous(breaks = c(0,2,4,6,8,10,12,14,16,18))
     }
   )
 }

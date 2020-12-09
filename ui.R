@@ -1,7 +1,7 @@
 # UI 
 ui <- dashboardPage(
   dashboardHeader(
-    title = "Health Scotland",
+    title = h3("Health Scotland"),
     dropdownMenu(type = "notifications",
                  notificationItem(
                    text = "information",
@@ -28,37 +28,57 @@ ui <- dashboardPage(
         h2("tab content"),
         fluidRow(
           box(
-            title = "selection 1",
-            width = 4
+            width = 4,
+            selectInput("year", label = h4("Select Year"), 
+                        choices = unique(general_age_sex$financial_year), 
+                        selected = "2019/20")
           ),
           
           box(
-            title = "graph 1",
-            width = 8
+            width = 8,
+            plotOutput("age_sex_plot")
           )
         ),
         
         fluidRow(
           box(
-            title = "selection 2",
-            width = 4
+            width = 4, 
+            radioButtons("sex", label = h4("Select Gender"),
+                         choices = list("Female" = "Female", "Male" = "Male", 
+                                        "All" = "All Sexes"), 
+                         selected = "All Sexes"),
+            selectInput("age", label = h4("Select Age Group"), 
+                        choices = unique(general_age_sex$age), 
+                        selected = "All Ages")
           ),
           
           box(
-            title = "graph 2",
-            width = 8
+            width = 8, 
+            plotOutput("agesex_admission_plot")
           )
         ),
         
         fluidRow(
           box(
-            title = "selection 3",
-            width = 4
+            width = 4,
+            
+            #####
+            selectInput("year",
+                        "Select Year",
+                        choices = unique(department_data$financial_year)),
+            
+            selectInput("department",
+                        "Select Department",
+                        choices = unique(department_data$department)),
+            
+            actionButton("update", "Thank you NHS")
+            #####
           ),
           
           box(
-            title = "graph 3",
-            width = 8
+            width = 8,
+            
+            tableOutput("department_table_output")
           )
         )
       ),
@@ -107,6 +127,7 @@ ui <- dashboardPage(
       tabItem(
         tabName = "regional",
         h2("Healthboard specific data"),
+
         
         fluidRow(
           
