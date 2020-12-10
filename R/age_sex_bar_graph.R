@@ -18,7 +18,7 @@ create_agesex_bar <- function(input, data) {
         fill = "Gender"
       ) +
       scale_y_continuous(breaks = c(0,2,4,6,8,10,12,14,16,18)) +
-      theme(text = element_text(size=15))
+      theme(text = element_text(size=13))
     }
   )
 }

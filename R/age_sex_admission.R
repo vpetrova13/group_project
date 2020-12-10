@@ -17,7 +17,7 @@ create_agesex_admission <- function(input, data) {
         fill = "Admission Type"
       ) + theme(legend.position = "none") +
       scale_y_continuous(breaks = c(0,2,4,6,8,10,12,14,16,18,20, 22,24,26,28,30))  +
-      theme(text = element_text(size=15))
+      theme(text = element_text(size=13))
   }
   )
 }
