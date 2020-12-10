@@ -12,10 +12,10 @@ create_alcohol_map <- function(input, output) {
       scale_color_manual(values=c("blue4", "yellow"), guide = "none") +
       theme_void() + 
       labs(
-        fill = "Stays per 100,000 population"
+        fill = "Stays per 100,000 people"
       )  +
       theme(
-        legend.title = element_text(color = "black", size = 14),
+        legend.title = element_text(color = "black", size = 15),
         legend.text = element_text(color = "black", size = 10),
         legend.position = "right"
       ) 

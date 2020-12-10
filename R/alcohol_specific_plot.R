@@ -19,7 +19,9 @@ create_alcohol_plot <- function(input, output) {
   theme(legend.position = "none") +
   coord_flip() +
   scale_y_continuous(breaks = c(0,300,600,900,1200,1500,1800,2100,2400,2700,
-                                3000, 3300,3600,4100,4400,4700,5000))
+                                3000, 3300,3600,4100,4400,4700,5000)) +
+      theme(text = element_text(size=15)) +
+      theme(plot.title = element_text(hjust=1))
     
   })
   

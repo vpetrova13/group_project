@@ -70,17 +70,16 @@ ui <- dashboardPage(
         fluidRow(
           box(
 
-            title = "Stays and length of stays in Scottish hospitals",
             width = 3,
 
             
             #####
             selectInput("year",
-                        "Select Year",
+                        label = h4("Select Year"),
                         choices = unique(department_data$financial_year)),
             
             selectInput("department",
-                        "Select Department",
+                        label = h4("Select Department"),
                         choices = unique(department_data$department)),
             
             actionButton("update", "Thank you NHS")
@@ -176,21 +175,21 @@ ui <- dashboardPage(
                  box(
                    width = NULL,
                    selectInput("date_code",
-                              label = h4("Which year?"), 
+                              label = h4("Select Year"), 
                               choices = unique(alcohol_table$date_code)
                    )
                  ),
                  box(
                    width = NULL,
                    radioButtons("alcohol_condition",
-                                label = h4("Condition type"),
+                                label = h4("Select Condition"),
                                 choices = unique(alcohol_table$alcohol_condition)
                    )
                  ),
                  box(
                    width = NULL,
                    radioButtons("type_of_hospital",
-                                label = h4("Type of hospital"),
+                                label = h4("Select type of hospital"),
                                 choices = unique(alcohol_table$type_of_hospital)
                    )
                  )
