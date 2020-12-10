@@ -6,55 +6,100 @@ output:
 
 # Health Scotland Project
 
+## Project Description Outline
+
 ### Names of group members
-Michael Boyne, Veronika Moroz, Matthew Willkins 
+
+Michael Boyne, Veronika Moroz, Matthew Willkins
 
 ### Roles & responsibilities of each member
-Person 1 worked on …
 
-Person 2 worked on …
+**Michael** worked on skeleton for dashboard and he worked on alcohol specific data 
+analysis and plotting for tab 3 (regional overview). 
 
-Person 3 worked on …
+**Veronika** worked on general data of inpatient cases in Scotland by sex and gender 
+for tab 1 (overview), she also did tab 2 (spatial data) which is spatial data analysis by health boards.
 
-Everyone worked on …
+**Matthew** worked on general data of inpatient cases in Scotland by specialty for tab 1 
+(overview), he also started the work on the presentation and map, whilst also creating
+Trello page.
 
-Brief description of dashboard topic
-Our dashboard contains …
+Everyone worked on different elements in the dashboard and overall collaborative 
+approach.
 
-Our health topic is …
+### Brief description of dashboard topic
 
-The dashboard outlines our health topic in terms of …
+Our dashboard contains the visualisation of the annual number of inpatient stays in hospitals for the last 10 years in Scotland.
 
-Stages of the project
-Planning & dashboard wireframe
-Git branching & version control
-Choosing datasets
-and so on …
+Our health topic is focused on conditions that are caused by the abuse of alcohol. 
+It shows that different health boards have various rate of stays caused by different
+conditions related to alcohol. It helps the NHS and public health Scotland identify
+which areas taken the highest proportion of patients that have conditions that are 
+alcohol related (either mental or physical).
 
-Which tools were used in the project
+
+### Stages of the project
+
+Through discussion on zoom, we planned the work and project. 
+Using an interactive drawing tool, we visualised the dashboard. 
+
+Thursday/ Friday - planning and preparing for the weekend individual task, choosing 
+a dataset by shortly wrangling in R
+Sat/Sun - Data cleaning, wrangling and plotting
+Mon - wrangling of new data, skeleton for dashboard, 'client Q&A'
+Tue - start dashboard and individual plots (tabs)
+Wed - merge using git and create map together, start presentation
+Thur - prepare presentation, rehearse, finalise dashboard, fill the written document
+Friday - THE DAY! of presentation
+
+
+### Which tools were used in the project
+
 Zoom (daily stand-ups and occasional mob programming)
 Trello (planning & task allocation)
 Git/GitHub (collaboration & version control)
-and so on …
+ExcaliDraw to visualise the dashboard
+Slack for communication
 
-How did you gather and synthesise requirements for the project?
-We synthesised the information given in the brief by …
+### How did you gather and synthesise requirements for the project?
 
-We used the Q&A session with ‘the client’ to …
+We gathered open data on NHS and Scottish government websites.
+We used the Q&A session with ‘the client’ to get an understanding of the project 
+through asking the questions such as:
+
+Q: how would you like to see the data visualised?
+Q: Would the client be interested in regional data?
+Q: What are the most important goals for the client, and how can the data help inform them?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 We prioritised …
 
-Motivations for using the data you have chosen
+### Motivations for using the data you have chosen
 We used the dataset on … to answer … and because it was …
 
-Data quality and potential bias, including a brief summary of data cleaning and transformations
+### Data quality and potential bias, including a brief summary of data cleaning and transformations
 According to the About tab on the dataset page/dedicated page online, the data quality …
 
 The dataset may/may not be biased because …
 
 To clean the datasets we …
 
-How is the data on statistics.gov.scot stored and structured
+### How is the data on statistics.gov.scot stored and structured
 [Hint: This page offers a good starting point for understanding the data structure: https://guides.statistics.gov.scot/article/34-understanding-the-data-structure]
 
 The data on statistics.gov.scot is in the form of …
@@ -63,9 +108,10 @@ This means …
 
 Benefits of storing the data like this are …
 
-Ethical and legal considerations of the data
+### Ethical and legal considerations of the data
 [Hint: this page contains information on the Open Government License which covers most datasets on statistics.gov.scot: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/]
 
 There are no/There may be ethical considerations, because …
 
 The datasets are covered by the Open Government License, which means …
+
