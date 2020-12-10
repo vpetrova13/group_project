@@ -3,5 +3,16 @@ output:
   html_document: default
   pdf_document: default
 ---
-# Insights into hospital admissions data in Scotland
 
+# Health Scotland Project
+
+### Stages in a data science project
+
+### Roles in a data science project team
+
+### Collaboration tools
+Project management methods and software
+Source control systems
+Business understanding including gathering and synthesising requirements for the project
+Data requirements including data sources
+Ethical and legal considerations including data bias
