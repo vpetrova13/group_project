@@ -1,13 +1,8 @@
 # UI 
 ui <- dashboardPage(
   dashboardHeader(
-    title = h3("Health Scotland"),
-    dropdownMenu(type = "notifications",
-                 notificationItem(
-                   text = "information",
-                   icon = icon("alert")
-                 )
-    )
+    title = h3("Health Scotland")
+   
   ),
   dashboardSidebar(
     sidebarMenu(
@@ -25,7 +20,21 @@ ui <- dashboardPage(
       # First tab content <- general overview
       tabItem(
         tabName = "overview",
-        h2("tab content"),
+        h2("Overview of hospital admissions in Scotland"),
+        fluidRow(
+          box(
+            width = 6,
+            h4("About"),
+            h6("This is a dashboard that visualises the annual quanitity of pantients recieved each year by
+               hospitals in scotland"),
+            h6("For this overview tab, the data has been broken down by age and sex for patient daycase 
+               activity in the 14 scottish healthboards"),
+            h6("source of dataset for this tab:",
+               tags$a("Public Health Scotland",
+                      href = "https://www.opendata.nhs.scot/dataset/annual-inpatient-and-daycase-activity/resource/a9d6e25d-ee49-4868-8bec-6205998b93b9"))
+            
+          )
+        ),
         fluidRow(
           box(
             width = 4,
@@ -60,6 +69,7 @@ ui <- dashboardPage(
         
         fluidRow(
           box(
+            title = "Stays and length of stays in Scottish hospitals",
             width = 4,
             
             #####
@@ -85,7 +95,20 @@ ui <- dashboardPage(
       # Second tab content <- map and graph
       tabItem(
         tabName = "map",
-        h2("tab content"),
+        h2("Spatial data"),
+        
+        fluidRow(
+          box(
+            width = 6,
+            h3("About"),
+            h6("This map and graph show the count and ratio (per 100,000 people) of
+               some of the most common conditions caused by abuse of alcohol throughout Scotland"),
+            h6("source of dataset for this tab:",
+               tags$a("Scottish Government",
+                      href = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics"))
+            
+          )
+        ),
         
         fluidRow(
           
@@ -104,7 +127,7 @@ ui <- dashboardPage(
             )
           ),
           
-          column(width = 6,
+          column(width = 9,
             box(
               title = "Map",
               width = NULL
@@ -113,21 +136,26 @@ ui <- dashboardPage(
               title = "graph/table",
               width = NULL
             )
-          ),
-          
-          column(width = 3,
-            box(
-              title = "text description",
-              width = NULL
-            )
           )
         )
       ),
       # Third tab content <- table and graph
       tabItem(
         tabName = "regional",
-        h2("Healthboard specific data"),
-
+        h2("Hospital admissions related to alcohol by healthboard"),
+        
+        fluidRow(
+          box(
+            width = 6,
+            h3("About"),
+            h6("The graph and table on this tab show a comparison of summarised groups of medical conditions 
+            caused by the abuse of alcohol. Comparisons can be drawn based on NHS healthboards"),
+            h6("source of dataset for this tab:",
+               tags$a("Scottish Government",
+                      href = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics"))
+            
+          )
+        ),
         
         fluidRow(
           

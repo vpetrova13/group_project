@@ -15,7 +15,7 @@ createGraph <- function(input, data){
       labs(
         title = "Condition by Healthboard",
         x = "Healthboard",
-        y = "Stays per 100,000") +
+        y = "Stays per 100,000 people") +
       theme(legend.position = "none") 
       
     
