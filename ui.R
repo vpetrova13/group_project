@@ -25,10 +25,10 @@ ui <- dashboardPage(
           box(
             width = 12,
             h4("About"),
-            h6("This is a dashboard that visualises the annual quanitity of pantients recieved each year by
-               hospitals in scotland"),
+            h6("This is a dashboard that visualises the annual quantity of patients received
+               each year by hospitals in scotland."),
             h6("For this overview tab, the data has been broken down by age and sex for patient daycase 
-               activity in the 14 scottish healthboards"),
+               activity in the 14 scottish healthboards."),
             h6("source of dataset for this tab:",
                tags$a("Public Health Scotland Website",
                       href = "https://www.opendata.nhs.scot/dataset/annual-inpatient-and-daycase-activity"))
@@ -103,7 +103,7 @@ ui <- dashboardPage(
             width = 12,
             h3("About"),
             h6("This map and graph show the count and ratio (per 100,000 people) of
-               some of the most common conditions caused by abuse of alcohol throughout Scotland"),
+               some of the most common conditions caused by abuse of alcohol throughout Scotland."),
             h6("source of dataset for this tab:",
                tags$a("Scottish Government Website",
                       href = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics"))
@@ -161,11 +161,10 @@ ui <- dashboardPage(
             width = 12,
             h3("About"),
             h6("The graph and table on this tab show a comparison of summarised groups of medical conditions 
-            caused by the abuse of alcohol. Comparisons can be drawn based on NHS healthboards"),
+            caused by the abuse of alcohol. Comparisons can be drawn based on NHS healthboards."),
             h6("source of dataset for this tab:",
                tags$a("Scottish Government Website",
                       href = "https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics"))
-            
           )
         ),
         
