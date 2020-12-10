@@ -1,0 +1,13 @@
+name: group_project
+title: group_project
+username:
+account: veronika13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3385432
+bundleId: 3972219
+url: https://veronika13.shinyapps.io/group_project/
+when: 1607629605.22067
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dashboard_design.excalidraw|cleaning_scripts/alcohol_cleaning_script.R

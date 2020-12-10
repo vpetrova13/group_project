@@ -24,7 +24,7 @@ ui <- dashboardPage(
         fluidRow(
           box(
             width = 12,
-            h4("About"),
+            h3("About"),
             h6("This is a dashboard that visualises the annual quantity of patients received
                each year by hospitals in Scotland."),
             h6("For this overview tab, the data has been broken down by age and sex for patient daycase 

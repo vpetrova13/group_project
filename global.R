@@ -8,9 +8,11 @@ library(DT)
 library(sf)
 # general <- read_csv()
 
+
 general_age_sex <- read_csv("data/sex_age_clean_data.csv")
 alcohol_table <- read_csv("data/clean_alcohol.csv")
-department_data <- read_csv("data/department_clean_data.csv")
+department_data <- read_csv("data/department_clean_data.csv") %>% 
+  filter(stays > 0, average_no_of_nights > 0) 
 general_age_sex <- read_csv("data/sex_age_clean_data.csv")
 
 #Map and graph - joining two data
