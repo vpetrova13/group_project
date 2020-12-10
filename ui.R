@@ -92,14 +92,14 @@ ui <- dashboardPage(
           column(width = 3,
             box(
               width = NULL,
-              selectInput("year", label = h4("Select Year"), 
-                          choices = unique(alcoholic_map_data$year), 
+              selectInput("year_map", label = h4("Select Year"), 
+                          choices = unique(alcohol_map_data$year), 
                           selected = "2018/2019")
             ),
             box(
               width = NULL,
               selectInput("hb", label = h4("Select Health Board"), 
-                          choices = unique(alcoholic_map_data$HBName),
+                          choices = unique(alcohol_map_data$HBName),
                           selected = "Lothian")
             ),
             box(
@@ -114,7 +114,7 @@ ui <- dashboardPage(
             )
           ),
           
-          column(width = 6,
+          column(width = 9,
             box(
               width = NULL, 
               plotOutput("alcoholic_map")
@@ -122,13 +122,6 @@ ui <- dashboardPage(
             box(
               width = NULL,
               plotOutput("alcoholic_plot")
-            )
-          ),
-          
-          column(width = 3,
-            box(
-              title = "text description",
-              width = NULL
             )
           )
         )

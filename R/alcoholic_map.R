@@ -2,8 +2,8 @@ create_alcohol_map <- function(input, output) {
   
   plot_map <- eventReactive(input$update_map, {
     
-    alcoholic_map_data %>% 
-      filter(year == input$year) %>% 
+    alcohol_map_data %>% 
+      filter(year == input$year_map) %>% 
       mutate(show_edge = HBName == input$hb) %>% 
       filter(measurement == input$ratio_count) %>% 
       ggplot(aes(fill = value, geometry = geometry, colour = show_edge)) +
