@@ -1,0 +1,981 @@
+year,alcohol_condition,hb_assign,measurement,total
+2009/2010,Acute Intoxication,S08000015,count,1056
+2009/2010,Acute Intoxication,S08000016,count,162
+2009/2010,Acute Intoxication,S08000017,count,108
+2009/2010,Acute Intoxication,S08000019,count,438
+2009/2010,Acute Intoxication,S08000020,count,612
+2009/2010,Acute Intoxication,S08000022,count,624
+2009/2010,Acute Intoxication,S08000024,count,765
+2009/2010,Acute Intoxication,S08000025,count,63
+2009/2010,Acute Intoxication,S08000026,count,39
+2009/2010,Acute Intoxication,S08000028,count,27
+2009/2010,Acute Intoxication,S08000029,count,351
+2009/2010,Acute Intoxication,S08000030,count,513
+2009/2010,Acute Intoxication,S08000031,count,2004
+2009/2010,Acute Intoxication,S08000032,count,885
+2009/2010,Alcohol Dependence syndrome,S08000015,count,360
+2009/2010,Alcohol Dependence syndrome,S08000016,count,48
+2009/2010,Alcohol Dependence syndrome,S08000017,count,87
+2009/2010,Alcohol Dependence syndrome,S08000019,count,252
+2009/2010,Alcohol Dependence syndrome,S08000020,count,765
+2009/2010,Alcohol Dependence syndrome,S08000022,count,366
+2009/2010,Alcohol Dependence syndrome,S08000024,count,576
+2009/2010,Alcohol Dependence syndrome,S08000025,count,129
+2009/2010,Alcohol Dependence syndrome,S08000026,count,27
+2009/2010,Alcohol Dependence syndrome,S08000028,count,111
+2009/2010,Alcohol Dependence syndrome,S08000029,count,261
+2009/2010,Alcohol Dependence syndrome,S08000030,count,303
+2009/2010,Alcohol Dependence syndrome,S08000031,count,1032
+2009/2010,Alcohol Dependence syndrome,S08000032,count,285
+2009/2010,Cirrhosis,S08000015,count,57
+2009/2010,Cirrhosis,S08000016,count,15
+2009/2010,Cirrhosis,S08000017,count,39
+2009/2010,Cirrhosis,S08000019,count,45
+2009/2010,Cirrhosis,S08000020,count,207
+2009/2010,Cirrhosis,S08000022,count,144
+2009/2010,Cirrhosis,S08000024,count,366
+2009/2010,Cirrhosis,S08000025,count,6
+2009/2010,Cirrhosis,S08000026,count,15
+2009/2010,Cirrhosis,S08000028,count,12
+2009/2010,Cirrhosis,S08000029,count,156
+2009/2010,Cirrhosis,S08000030,count,48
+2009/2010,Cirrhosis,S08000031,count,483
+2009/2010,Cirrhosis,S08000032,count,114
+2009/2010,Harmful Use,S08000015,count,1563
+2009/2010,Harmful Use,S08000016,count,258
+2009/2010,Harmful Use,S08000017,count,195
+2009/2010,Harmful Use,S08000019,count,258
+2009/2010,Harmful Use,S08000020,count,1380
+2009/2010,Harmful Use,S08000022,count,966
+2009/2010,Harmful Use,S08000024,count,1914
+2009/2010,Harmful Use,S08000025,count,18
+2009/2010,Harmful Use,S08000026,count,39
+2009/2010,Harmful Use,S08000028,count,39
+2009/2010,Harmful Use,S08000029,count,594
+2009/2010,Harmful Use,S08000030,count,495
+2009/2010,Harmful Use,S08000031,count,4905
+2009/2010,Harmful Use,S08000032,count,1110
+2009/2010,Toxic Effects of Alcohol,S08000015,count,606
+2009/2010,Toxic Effects of Alcohol,S08000016,count,69
+2009/2010,Toxic Effects of Alcohol,S08000017,count,87
+2009/2010,Toxic Effects of Alcohol,S08000019,count,177
+2009/2010,Toxic Effects of Alcohol,S08000020,count,504
+2009/2010,Toxic Effects of Alcohol,S08000022,count,228
+2009/2010,Toxic Effects of Alcohol,S08000024,count,780
+2009/2010,Toxic Effects of Alcohol,S08000025,count,12
+2009/2010,Toxic Effects of Alcohol,S08000026,count,24
+2009/2010,Toxic Effects of Alcohol,S08000028,count,0
+2009/2010,Toxic Effects of Alcohol,S08000029,count,399
+2009/2010,Toxic Effects of Alcohol,S08000030,count,180
+2009/2010,Toxic Effects of Alcohol,S08000031,count,813
+2009/2010,Toxic Effects of Alcohol,S08000032,count,255
+2009/2010,Unspecified,S08000015,count,372
+2009/2010,Unspecified,S08000016,count,66
+2009/2010,Unspecified,S08000017,count,108
+2009/2010,Unspecified,S08000019,count,165
+2009/2010,Unspecified,S08000020,count,282
+2009/2010,Unspecified,S08000022,count,168
+2009/2010,Unspecified,S08000024,count,405
+2009/2010,Unspecified,S08000025,count,18
+2009/2010,Unspecified,S08000026,count,6
+2009/2010,Unspecified,S08000028,count,6
+2009/2010,Unspecified,S08000029,count,210
+2009/2010,Unspecified,S08000030,count,378
+2009/2010,Unspecified,S08000031,count,1557
+2009/2010,Unspecified,S08000032,count,483
+2009/2010,Withdrawal state,S08000015,count,375
+2009/2010,Withdrawal state,S08000016,count,42
+2009/2010,Withdrawal state,S08000017,count,48
+2009/2010,Withdrawal state,S08000019,count,171
+2009/2010,Withdrawal state,S08000020,count,432
+2009/2010,Withdrawal state,S08000022,count,270
+2009/2010,Withdrawal state,S08000024,count,375
+2009/2010,Withdrawal state,S08000025,count,6
+2009/2010,Withdrawal state,S08000026,count,15
+2009/2010,Withdrawal state,S08000028,count,39
+2009/2010,Withdrawal state,S08000029,count,186
+2009/2010,Withdrawal state,S08000030,count,150
+2009/2010,Withdrawal state,S08000031,count,1533
+2009/2010,Withdrawal state,S08000032,count,546
+2010/2011,Acute Intoxication,S08000015,count,1086
+2010/2011,Acute Intoxication,S08000016,count,159
+2010/2011,Acute Intoxication,S08000017,count,114
+2010/2011,Acute Intoxication,S08000019,count,282
+2010/2011,Acute Intoxication,S08000020,count,624
+2010/2011,Acute Intoxication,S08000022,count,552
+2010/2011,Acute Intoxication,S08000024,count,852
+2010/2011,Acute Intoxication,S08000025,count,69
+2010/2011,Acute Intoxication,S08000026,count,54
+2010/2011,Acute Intoxication,S08000028,count,12
+2010/2011,Acute Intoxication,S08000029,count,264
+2010/2011,Acute Intoxication,S08000030,count,615
+2010/2011,Acute Intoxication,S08000031,count,2406
+2010/2011,Acute Intoxication,S08000032,count,912
+2010/2011,Alcohol Dependence syndrome,S08000015,count,264
+2010/2011,Alcohol Dependence syndrome,S08000016,count,60
+2010/2011,Alcohol Dependence syndrome,S08000017,count,51
+2010/2011,Alcohol Dependence syndrome,S08000019,count,192
+2010/2011,Alcohol Dependence syndrome,S08000020,count,678
+2010/2011,Alcohol Dependence syndrome,S08000022,count,351
+2010/2011,Alcohol Dependence syndrome,S08000024,count,591
+2010/2011,Alcohol Dependence syndrome,S08000025,count,261
+2010/2011,Alcohol Dependence syndrome,S08000026,count,33
+2010/2011,Alcohol Dependence syndrome,S08000028,count,108
+2010/2011,Alcohol Dependence syndrome,S08000029,count,204
+2010/2011,Alcohol Dependence syndrome,S08000030,count,318
+2010/2011,Alcohol Dependence syndrome,S08000031,count,1017
+2010/2011,Alcohol Dependence syndrome,S08000032,count,234
+2010/2011,Cirrhosis,S08000015,count,57
+2010/2011,Cirrhosis,S08000016,count,12
+2010/2011,Cirrhosis,S08000017,count,75
+2010/2011,Cirrhosis,S08000019,count,36
+2010/2011,Cirrhosis,S08000020,count,222
+2010/2011,Cirrhosis,S08000022,count,138
+2010/2011,Cirrhosis,S08000024,count,540
+2010/2011,Cirrhosis,S08000025,count,12
+2010/2011,Cirrhosis,S08000026,count,6
+2010/2011,Cirrhosis,S08000028,count,12
+2010/2011,Cirrhosis,S08000029,count,102
+2010/2011,Cirrhosis,S08000030,count,96
+2010/2011,Cirrhosis,S08000031,count,618
+2010/2011,Cirrhosis,S08000032,count,150
+2010/2011,Harmful Use,S08000015,count,1539
+2010/2011,Harmful Use,S08000016,count,219
+2010/2011,Harmful Use,S08000017,count,204
+2010/2011,Harmful Use,S08000019,count,258
+2010/2011,Harmful Use,S08000020,count,1122
+2010/2011,Harmful Use,S08000022,count,888
+2010/2011,Harmful Use,S08000024,count,1836
+2010/2011,Harmful Use,S08000025,count,30
+2010/2011,Harmful Use,S08000026,count,42
+2010/2011,Harmful Use,S08000028,count,51
+2010/2011,Harmful Use,S08000029,count,549
+2010/2011,Harmful Use,S08000030,count,573
+2010/2011,Harmful Use,S08000031,count,4557
+2010/2011,Harmful Use,S08000032,count,1065
+2010/2011,Toxic Effects of Alcohol,S08000015,count,552
+2010/2011,Toxic Effects of Alcohol,S08000016,count,66
+2010/2011,Toxic Effects of Alcohol,S08000017,count,93
+2010/2011,Toxic Effects of Alcohol,S08000019,count,117
+2010/2011,Toxic Effects of Alcohol,S08000020,count,522
+2010/2011,Toxic Effects of Alcohol,S08000022,count,189
+2010/2011,Toxic Effects of Alcohol,S08000024,count,864
+2010/2011,Toxic Effects of Alcohol,S08000025,count,15
+2010/2011,Toxic Effects of Alcohol,S08000026,count,12
+2010/2011,Toxic Effects of Alcohol,S08000028,count,3
+2010/2011,Toxic Effects of Alcohol,S08000029,count,384
+2010/2011,Toxic Effects of Alcohol,S08000030,count,219
+2010/2011,Toxic Effects of Alcohol,S08000031,count,930
+2010/2011,Toxic Effects of Alcohol,S08000032,count,279
+2010/2011,Unspecified,S08000015,count,294
+2010/2011,Unspecified,S08000016,count,57
+2010/2011,Unspecified,S08000017,count,84
+2010/2011,Unspecified,S08000019,count,159
+2010/2011,Unspecified,S08000020,count,231
+2010/2011,Unspecified,S08000022,count,150
+2010/2011,Unspecified,S08000024,count,447
+2010/2011,Unspecified,S08000025,count,15
+2010/2011,Unspecified,S08000026,count,6
+2010/2011,Unspecified,S08000028,count,9
+2010/2011,Unspecified,S08000029,count,201
+2010/2011,Unspecified,S08000030,count,321
+2010/2011,Unspecified,S08000031,count,1461
+2010/2011,Unspecified,S08000032,count,393
+2010/2011,Withdrawal state,S08000015,count,315
+2010/2011,Withdrawal state,S08000016,count,42
+2010/2011,Withdrawal state,S08000017,count,66
+2010/2011,Withdrawal state,S08000019,count,135
+2010/2011,Withdrawal state,S08000020,count,387
+2010/2011,Withdrawal state,S08000022,count,249
+2010/2011,Withdrawal state,S08000024,count,426
+2010/2011,Withdrawal state,S08000025,count,0
+2010/2011,Withdrawal state,S08000026,count,21
+2010/2011,Withdrawal state,S08000028,count,21
+2010/2011,Withdrawal state,S08000029,count,180
+2010/2011,Withdrawal state,S08000030,count,138
+2010/2011,Withdrawal state,S08000031,count,1587
+2010/2011,Withdrawal state,S08000032,count,591
+2011/2012,Acute Intoxication,S08000015,count,1245
+2011/2012,Acute Intoxication,S08000016,count,204
+2011/2012,Acute Intoxication,S08000017,count,162
+2011/2012,Acute Intoxication,S08000019,count,348
+2011/2012,Acute Intoxication,S08000020,count,696
+2011/2012,Acute Intoxication,S08000022,count,645
+2011/2012,Acute Intoxication,S08000024,count,921
+2011/2012,Acute Intoxication,S08000025,count,69
+2011/2012,Acute Intoxication,S08000026,count,87
+2011/2012,Acute Intoxication,S08000028,count,51
+2011/2012,Acute Intoxication,S08000029,count,495
+2011/2012,Acute Intoxication,S08000030,count,567
+2011/2012,Acute Intoxication,S08000031,count,3570
+2011/2012,Acute Intoxication,S08000032,count,1419
+2011/2012,Alcohol Dependence syndrome,S08000015,count,444
+2011/2012,Alcohol Dependence syndrome,S08000016,count,75
+2011/2012,Alcohol Dependence syndrome,S08000017,count,99
+2011/2012,Alcohol Dependence syndrome,S08000019,count,264
+2011/2012,Alcohol Dependence syndrome,S08000020,count,822
+2011/2012,Alcohol Dependence syndrome,S08000022,count,372
+2011/2012,Alcohol Dependence syndrome,S08000024,count,606
+2011/2012,Alcohol Dependence syndrome,S08000025,count,222
+2011/2012,Alcohol Dependence syndrome,S08000026,count,39
+2011/2012,Alcohol Dependence syndrome,S08000028,count,66
+2011/2012,Alcohol Dependence syndrome,S08000029,count,198
+2011/2012,Alcohol Dependence syndrome,S08000030,count,318
+2011/2012,Alcohol Dependence syndrome,S08000031,count,1251
+2011/2012,Alcohol Dependence syndrome,S08000032,count,318
+2011/2012,Cirrhosis,S08000015,count,78
+2011/2012,Cirrhosis,S08000016,count,21
+2011/2012,Cirrhosis,S08000017,count,57
+2011/2012,Cirrhosis,S08000019,count,36
+2011/2012,Cirrhosis,S08000020,count,210
+2011/2012,Cirrhosis,S08000022,count,117
+2011/2012,Cirrhosis,S08000024,count,555
+2011/2012,Cirrhosis,S08000025,count,21
+2011/2012,Cirrhosis,S08000026,count,12
+2011/2012,Cirrhosis,S08000028,count,6
+2011/2012,Cirrhosis,S08000029,count,126
+2011/2012,Cirrhosis,S08000030,count,72
+2011/2012,Cirrhosis,S08000031,count,651
+2011/2012,Cirrhosis,S08000032,count,186
+2011/2012,Harmful Use,S08000015,count,864
+2011/2012,Harmful Use,S08000016,count,246
+2011/2012,Harmful Use,S08000017,count,129
+2011/2012,Harmful Use,S08000019,count,201
+2011/2012,Harmful Use,S08000020,count,996
+2011/2012,Harmful Use,S08000022,count,768
+2011/2012,Harmful Use,S08000024,count,1881
+2011/2012,Harmful Use,S08000025,count,42
+2011/2012,Harmful Use,S08000026,count,42
+2011/2012,Harmful Use,S08000028,count,78
+2011/2012,Harmful Use,S08000029,count,495
+2011/2012,Harmful Use,S08000030,count,528
+2011/2012,Harmful Use,S08000031,count,3309
+2011/2012,Harmful Use,S08000032,count,1035
+2011/2012,Toxic Effects of Alcohol,S08000015,count,537
+2011/2012,Toxic Effects of Alcohol,S08000016,count,66
+2011/2012,Toxic Effects of Alcohol,S08000017,count,78
+2011/2012,Toxic Effects of Alcohol,S08000019,count,165
+2011/2012,Toxic Effects of Alcohol,S08000020,count,540
+2011/2012,Toxic Effects of Alcohol,S08000022,count,225
+2011/2012,Toxic Effects of Alcohol,S08000024,count,831
+2011/2012,Toxic Effects of Alcohol,S08000025,count,24
+2011/2012,Toxic Effects of Alcohol,S08000026,count,18
+2011/2012,Toxic Effects of Alcohol,S08000028,count,3
+2011/2012,Toxic Effects of Alcohol,S08000029,count,354
+2011/2012,Toxic Effects of Alcohol,S08000030,count,195
+2011/2012,Toxic Effects of Alcohol,S08000031,count,897
+2011/2012,Toxic Effects of Alcohol,S08000032,count,342
+2011/2012,Unspecified,S08000015,count,309
+2011/2012,Unspecified,S08000016,count,69
+2011/2012,Unspecified,S08000017,count,69
+2011/2012,Unspecified,S08000019,count,153
+2011/2012,Unspecified,S08000020,count,261
+2011/2012,Unspecified,S08000022,count,102
+2011/2012,Unspecified,S08000024,count,375
+2011/2012,Unspecified,S08000025,count,9
+2011/2012,Unspecified,S08000026,count,12
+2011/2012,Unspecified,S08000028,count,12
+2011/2012,Unspecified,S08000029,count,156
+2011/2012,Unspecified,S08000030,count,252
+2011/2012,Unspecified,S08000031,count,1182
+2011/2012,Unspecified,S08000032,count,459
+2011/2012,Withdrawal state,S08000015,count,381
+2011/2012,Withdrawal state,S08000016,count,42
+2011/2012,Withdrawal state,S08000017,count,81
+2011/2012,Withdrawal state,S08000019,count,147
+2011/2012,Withdrawal state,S08000020,count,495
+2011/2012,Withdrawal state,S08000022,count,285
+2011/2012,Withdrawal state,S08000024,count,483
+2011/2012,Withdrawal state,S08000025,count,6
+2011/2012,Withdrawal state,S08000026,count,27
+2011/2012,Withdrawal state,S08000028,count,27
+2011/2012,Withdrawal state,S08000029,count,156
+2011/2012,Withdrawal state,S08000030,count,153
+2011/2012,Withdrawal state,S08000031,count,1689
+2011/2012,Withdrawal state,S08000032,count,672
+2012/2013,Acute Intoxication,S08000015,count,1029
+2012/2013,Acute Intoxication,S08000016,count,156
+2012/2013,Acute Intoxication,S08000017,count,171
+2012/2013,Acute Intoxication,S08000019,count,423
+2012/2013,Acute Intoxication,S08000020,count,687
+2012/2013,Acute Intoxication,S08000022,count,534
+2012/2013,Acute Intoxication,S08000024,count,1053
+2012/2013,Acute Intoxication,S08000025,count,78
+2012/2013,Acute Intoxication,S08000026,count,75
+2012/2013,Acute Intoxication,S08000028,count,78
+2012/2013,Acute Intoxication,S08000029,count,645
+2012/2013,Acute Intoxication,S08000030,count,522
+2012/2013,Acute Intoxication,S08000031,count,3027
+2012/2013,Acute Intoxication,S08000032,count,1182
+2012/2013,Alcohol Dependence syndrome,S08000015,count,414
+2012/2013,Alcohol Dependence syndrome,S08000016,count,87
+2012/2013,Alcohol Dependence syndrome,S08000017,count,123
+2012/2013,Alcohol Dependence syndrome,S08000019,count,147
+2012/2013,Alcohol Dependence syndrome,S08000020,count,720
+2012/2013,Alcohol Dependence syndrome,S08000022,count,408
+2012/2013,Alcohol Dependence syndrome,S08000024,count,618
+2012/2013,Alcohol Dependence syndrome,S08000025,count,237
+2012/2013,Alcohol Dependence syndrome,S08000026,count,27
+2012/2013,Alcohol Dependence syndrome,S08000028,count,24
+2012/2013,Alcohol Dependence syndrome,S08000029,count,261
+2012/2013,Alcohol Dependence syndrome,S08000030,count,360
+2012/2013,Alcohol Dependence syndrome,S08000031,count,1344
+2012/2013,Alcohol Dependence syndrome,S08000032,count,447
+2012/2013,Cirrhosis,S08000015,count,81
+2012/2013,Cirrhosis,S08000016,count,30
+2012/2013,Cirrhosis,S08000017,count,81
+2012/2013,Cirrhosis,S08000019,count,69
+2012/2013,Cirrhosis,S08000020,count,150
+2012/2013,Cirrhosis,S08000022,count,174
+2012/2013,Cirrhosis,S08000024,count,579
+2012/2013,Cirrhosis,S08000025,count,6
+2012/2013,Cirrhosis,S08000026,count,6
+2012/2013,Cirrhosis,S08000028,count,0
+2012/2013,Cirrhosis,S08000029,count,135
+2012/2013,Cirrhosis,S08000030,count,93
+2012/2013,Cirrhosis,S08000031,count,744
+2012/2013,Cirrhosis,S08000032,count,300
+2012/2013,Harmful Use,S08000015,count,888
+2012/2013,Harmful Use,S08000016,count,222
+2012/2013,Harmful Use,S08000017,count,78
+2012/2013,Harmful Use,S08000019,count,240
+2012/2013,Harmful Use,S08000020,count,846
+2012/2013,Harmful Use,S08000022,count,738
+2012/2013,Harmful Use,S08000024,count,1833
+2012/2013,Harmful Use,S08000025,count,42
+2012/2013,Harmful Use,S08000026,count,18
+2012/2013,Harmful Use,S08000028,count,60
+2012/2013,Harmful Use,S08000029,count,573
+2012/2013,Harmful Use,S08000030,count,501
+2012/2013,Harmful Use,S08000031,count,2790
+2012/2013,Harmful Use,S08000032,count,1098
+2012/2013,Toxic Effects of Alcohol,S08000015,count,381
+2012/2013,Toxic Effects of Alcohol,S08000016,count,54
+2012/2013,Toxic Effects of Alcohol,S08000017,count,96
+2012/2013,Toxic Effects of Alcohol,S08000019,count,126
+2012/2013,Toxic Effects of Alcohol,S08000020,count,468
+2012/2013,Toxic Effects of Alcohol,S08000022,count,225
+2012/2013,Toxic Effects of Alcohol,S08000024,count,726
+2012/2013,Toxic Effects of Alcohol,S08000025,count,15
+2012/2013,Toxic Effects of Alcohol,S08000026,count,0
+2012/2013,Toxic Effects of Alcohol,S08000028,count,12
+2012/2013,Toxic Effects of Alcohol,S08000029,count,354
+2012/2013,Toxic Effects of Alcohol,S08000030,count,183
+2012/2013,Toxic Effects of Alcohol,S08000031,count,675
+2012/2013,Toxic Effects of Alcohol,S08000032,count,321
+2012/2013,Unspecified,S08000015,count,291
+2012/2013,Unspecified,S08000016,count,57
+2012/2013,Unspecified,S08000017,count,69
+2012/2013,Unspecified,S08000019,count,87
+2012/2013,Unspecified,S08000020,count,279
+2012/2013,Unspecified,S08000022,count,135
+2012/2013,Unspecified,S08000024,count,291
+2012/2013,Unspecified,S08000025,count,12
+2012/2013,Unspecified,S08000026,count,9
+2012/2013,Unspecified,S08000028,count,9
+2012/2013,Unspecified,S08000029,count,132
+2012/2013,Unspecified,S08000030,count,219
+2012/2013,Unspecified,S08000031,count,1026
+2012/2013,Unspecified,S08000032,count,408
+2012/2013,Withdrawal state,S08000015,count,336
+2012/2013,Withdrawal state,S08000016,count,48
+2012/2013,Withdrawal state,S08000017,count,63
+2012/2013,Withdrawal state,S08000019,count,186
+2012/2013,Withdrawal state,S08000020,count,420
+2012/2013,Withdrawal state,S08000022,count,252
+2012/2013,Withdrawal state,S08000024,count,507
+2012/2013,Withdrawal state,S08000025,count,6
+2012/2013,Withdrawal state,S08000026,count,24
+2012/2013,Withdrawal state,S08000028,count,30
+2012/2013,Withdrawal state,S08000029,count,192
+2012/2013,Withdrawal state,S08000030,count,177
+2012/2013,Withdrawal state,S08000031,count,1668
+2012/2013,Withdrawal state,S08000032,count,645
+2013/2014,Acute Intoxication,S08000015,count,843
+2013/2014,Acute Intoxication,S08000016,count,189
+2013/2014,Acute Intoxication,S08000017,count,189
+2013/2014,Acute Intoxication,S08000019,count,498
+2013/2014,Acute Intoxication,S08000020,count,741
+2013/2014,Acute Intoxication,S08000022,count,546
+2013/2014,Acute Intoxication,S08000024,count,1161
+2013/2014,Acute Intoxication,S08000025,count,66
+2013/2014,Acute Intoxication,S08000026,count,63
+2013/2014,Acute Intoxication,S08000028,count,81
+2013/2014,Acute Intoxication,S08000029,count,717
+2013/2014,Acute Intoxication,S08000030,count,552
+2013/2014,Acute Intoxication,S08000031,count,2421
+2013/2014,Acute Intoxication,S08000032,count,1119
+2013/2014,Alcohol Dependence syndrome,S08000015,count,396
+2013/2014,Alcohol Dependence syndrome,S08000016,count,78
+2013/2014,Alcohol Dependence syndrome,S08000017,count,93
+2013/2014,Alcohol Dependence syndrome,S08000019,count,210
+2013/2014,Alcohol Dependence syndrome,S08000020,count,621
+2013/2014,Alcohol Dependence syndrome,S08000022,count,402
+2013/2014,Alcohol Dependence syndrome,S08000024,count,531
+2013/2014,Alcohol Dependence syndrome,S08000025,count,207
+2013/2014,Alcohol Dependence syndrome,S08000026,count,27
+2013/2014,Alcohol Dependence syndrome,S08000028,count,36
+2013/2014,Alcohol Dependence syndrome,S08000029,count,333
+2013/2014,Alcohol Dependence syndrome,S08000030,count,420
+2013/2014,Alcohol Dependence syndrome,S08000031,count,1260
+2013/2014,Alcohol Dependence syndrome,S08000032,count,570
+2013/2014,Cirrhosis,S08000015,count,99
+2013/2014,Cirrhosis,S08000016,count,39
+2013/2014,Cirrhosis,S08000017,count,75
+2013/2014,Cirrhosis,S08000019,count,45
+2013/2014,Cirrhosis,S08000020,count,207
+2013/2014,Cirrhosis,S08000022,count,117
+2013/2014,Cirrhosis,S08000024,count,612
+2013/2014,Cirrhosis,S08000025,count,12
+2013/2014,Cirrhosis,S08000026,count,6
+2013/2014,Cirrhosis,S08000028,count,12
+2013/2014,Cirrhosis,S08000029,count,180
+2013/2014,Cirrhosis,S08000030,count,126
+2013/2014,Cirrhosis,S08000031,count,933
+2013/2014,Cirrhosis,S08000032,count,336
+2013/2014,Harmful Use,S08000015,count,867
+2013/2014,Harmful Use,S08000016,count,210
+2013/2014,Harmful Use,S08000017,count,66
+2013/2014,Harmful Use,S08000019,count,207
+2013/2014,Harmful Use,S08000020,count,837
+2013/2014,Harmful Use,S08000022,count,732
+2013/2014,Harmful Use,S08000024,count,1719
+2013/2014,Harmful Use,S08000025,count,36
+2013/2014,Harmful Use,S08000026,count,27
+2013/2014,Harmful Use,S08000028,count,42
+2013/2014,Harmful Use,S08000029,count,570
+2013/2014,Harmful Use,S08000030,count,429
+2013/2014,Harmful Use,S08000031,count,3366
+2013/2014,Harmful Use,S08000032,count,1239
+2013/2014,Toxic Effects of Alcohol,S08000015,count,426
+2013/2014,Toxic Effects of Alcohol,S08000016,count,66
+2013/2014,Toxic Effects of Alcohol,S08000017,count,93
+2013/2014,Toxic Effects of Alcohol,S08000019,count,150
+2013/2014,Toxic Effects of Alcohol,S08000020,count,447
+2013/2014,Toxic Effects of Alcohol,S08000022,count,201
+2013/2014,Toxic Effects of Alcohol,S08000024,count,651
+2013/2014,Toxic Effects of Alcohol,S08000025,count,9
+2013/2014,Toxic Effects of Alcohol,S08000026,count,9
+2013/2014,Toxic Effects of Alcohol,S08000028,count,18
+2013/2014,Toxic Effects of Alcohol,S08000029,count,312
+2013/2014,Toxic Effects of Alcohol,S08000030,count,126
+2013/2014,Toxic Effects of Alcohol,S08000031,count,699
+2013/2014,Toxic Effects of Alcohol,S08000032,count,345
+2013/2014,Unspecified,S08000015,count,279
+2013/2014,Unspecified,S08000016,count,48
+2013/2014,Unspecified,S08000017,count,105
+2013/2014,Unspecified,S08000019,count,132
+2013/2014,Unspecified,S08000020,count,225
+2013/2014,Unspecified,S08000022,count,102
+2013/2014,Unspecified,S08000024,count,261
+2013/2014,Unspecified,S08000025,count,9
+2013/2014,Unspecified,S08000026,count,9
+2013/2014,Unspecified,S08000028,count,12
+2013/2014,Unspecified,S08000029,count,129
+2013/2014,Unspecified,S08000030,count,210
+2013/2014,Unspecified,S08000031,count,972
+2013/2014,Unspecified,S08000032,count,420
+2013/2014,Withdrawal state,S08000015,count,357
+2013/2014,Withdrawal state,S08000016,count,39
+2013/2014,Withdrawal state,S08000017,count,84
+2013/2014,Withdrawal state,S08000019,count,225
+2013/2014,Withdrawal state,S08000020,count,429
+2013/2014,Withdrawal state,S08000022,count,276
+2013/2014,Withdrawal state,S08000024,count,603
+2013/2014,Withdrawal state,S08000025,count,18
+2013/2014,Withdrawal state,S08000026,count,9
+2013/2014,Withdrawal state,S08000028,count,30
+2013/2014,Withdrawal state,S08000029,count,210
+2013/2014,Withdrawal state,S08000030,count,231
+2013/2014,Withdrawal state,S08000031,count,1887
+2013/2014,Withdrawal state,S08000032,count,771
+2014/2015,Acute Intoxication,S08000015,count,756
+2014/2015,Acute Intoxication,S08000016,count,117
+2014/2015,Acute Intoxication,S08000017,count,156
+2014/2015,Acute Intoxication,S08000019,count,438
+2014/2015,Acute Intoxication,S08000020,count,801
+2014/2015,Acute Intoxication,S08000022,count,540
+2014/2015,Acute Intoxication,S08000024,count,1083
+2014/2015,Acute Intoxication,S08000025,count,57
+2014/2015,Acute Intoxication,S08000026,count,54
+2014/2015,Acute Intoxication,S08000028,count,60
+2014/2015,Acute Intoxication,S08000029,count,639
+2014/2015,Acute Intoxication,S08000030,count,555
+2014/2015,Acute Intoxication,S08000031,count,2100
+2014/2015,Acute Intoxication,S08000032,count,1143
+2014/2015,Alcohol Dependence syndrome,S08000015,count,366
+2014/2015,Alcohol Dependence syndrome,S08000016,count,42
+2014/2015,Alcohol Dependence syndrome,S08000017,count,84
+2014/2015,Alcohol Dependence syndrome,S08000019,count,234
+2014/2015,Alcohol Dependence syndrome,S08000020,count,465
+2014/2015,Alcohol Dependence syndrome,S08000022,count,390
+2014/2015,Alcohol Dependence syndrome,S08000024,count,474
+2014/2015,Alcohol Dependence syndrome,S08000025,count,48
+2014/2015,Alcohol Dependence syndrome,S08000026,count,15
+2014/2015,Alcohol Dependence syndrome,S08000028,count,18
+2014/2015,Alcohol Dependence syndrome,S08000029,count,294
+2014/2015,Alcohol Dependence syndrome,S08000030,count,444
+2014/2015,Alcohol Dependence syndrome,S08000031,count,1350
+2014/2015,Alcohol Dependence syndrome,S08000032,count,561
+2014/2015,Cirrhosis,S08000015,count,156
+2014/2015,Cirrhosis,S08000016,count,30
+2014/2015,Cirrhosis,S08000017,count,66
+2014/2015,Cirrhosis,S08000019,count,57
+2014/2015,Cirrhosis,S08000020,count,282
+2014/2015,Cirrhosis,S08000022,count,171
+2014/2015,Cirrhosis,S08000024,count,612
+2014/2015,Cirrhosis,S08000025,count,15
+2014/2015,Cirrhosis,S08000026,count,6
+2014/2015,Cirrhosis,S08000028,count,9
+2014/2015,Cirrhosis,S08000029,count,207
+2014/2015,Cirrhosis,S08000030,count,138
+2014/2015,Cirrhosis,S08000031,count,1125
+2014/2015,Cirrhosis,S08000032,count,375
+2014/2015,Harmful Use,S08000015,count,861
+2014/2015,Harmful Use,S08000016,count,156
+2014/2015,Harmful Use,S08000017,count,66
+2014/2015,Harmful Use,S08000019,count,225
+2014/2015,Harmful Use,S08000020,count,711
+2014/2015,Harmful Use,S08000022,count,750
+2014/2015,Harmful Use,S08000024,count,1758
+2014/2015,Harmful Use,S08000025,count,39
+2014/2015,Harmful Use,S08000026,count,30
+2014/2015,Harmful Use,S08000028,count,30
+2014/2015,Harmful Use,S08000029,count,609
+2014/2015,Harmful Use,S08000030,count,492
+2014/2015,Harmful Use,S08000031,count,3606
+2014/2015,Harmful Use,S08000032,count,1185
+2014/2015,Toxic Effects of Alcohol,S08000015,count,324
+2014/2015,Toxic Effects of Alcohol,S08000016,count,45
+2014/2015,Toxic Effects of Alcohol,S08000017,count,72
+2014/2015,Toxic Effects of Alcohol,S08000019,count,96
+2014/2015,Toxic Effects of Alcohol,S08000020,count,378
+2014/2015,Toxic Effects of Alcohol,S08000022,count,168
+2014/2015,Toxic Effects of Alcohol,S08000024,count,573
+2014/2015,Toxic Effects of Alcohol,S08000025,count,27
+2014/2015,Toxic Effects of Alcohol,S08000026,count,6
+2014/2015,Toxic Effects of Alcohol,S08000028,count,9
+2014/2015,Toxic Effects of Alcohol,S08000029,count,294
+2014/2015,Toxic Effects of Alcohol,S08000030,count,135
+2014/2015,Toxic Effects of Alcohol,S08000031,count,567
+2014/2015,Toxic Effects of Alcohol,S08000032,count,267
+2014/2015,Unspecified,S08000015,count,327
+2014/2015,Unspecified,S08000016,count,63
+2014/2015,Unspecified,S08000017,count,72
+2014/2015,Unspecified,S08000019,count,120
+2014/2015,Unspecified,S08000020,count,168
+2014/2015,Unspecified,S08000022,count,117
+2014/2015,Unspecified,S08000024,count,267
+2014/2015,Unspecified,S08000025,count,6
+2014/2015,Unspecified,S08000026,count,3
+2014/2015,Unspecified,S08000028,count,3
+2014/2015,Unspecified,S08000029,count,111
+2014/2015,Unspecified,S08000030,count,231
+2014/2015,Unspecified,S08000031,count,939
+2014/2015,Unspecified,S08000032,count,426
+2014/2015,Withdrawal state,S08000015,count,336
+2014/2015,Withdrawal state,S08000016,count,69
+2014/2015,Withdrawal state,S08000017,count,78
+2014/2015,Withdrawal state,S08000019,count,279
+2014/2015,Withdrawal state,S08000020,count,435
+2014/2015,Withdrawal state,S08000022,count,261
+2014/2015,Withdrawal state,S08000024,count,615
+2014/2015,Withdrawal state,S08000025,count,15
+2014/2015,Withdrawal state,S08000026,count,18
+2014/2015,Withdrawal state,S08000028,count,15
+2014/2015,Withdrawal state,S08000029,count,246
+2014/2015,Withdrawal state,S08000030,count,237
+2014/2015,Withdrawal state,S08000031,count,2151
+2014/2015,Withdrawal state,S08000032,count,795
+2015/2016,Acute Intoxication,S08000015,count,702
+2015/2016,Acute Intoxication,S08000016,count,126
+2015/2016,Acute Intoxication,S08000017,count,147
+2015/2016,Acute Intoxication,S08000019,count,375
+2015/2016,Acute Intoxication,S08000020,count,792
+2015/2016,Acute Intoxication,S08000022,count,462
+2015/2016,Acute Intoxication,S08000024,count,1125
+2015/2016,Acute Intoxication,S08000025,count,54
+2015/2016,Acute Intoxication,S08000026,count,54
+2015/2016,Acute Intoxication,S08000028,count,63
+2015/2016,Acute Intoxication,S08000029,count,729
+2015/2016,Acute Intoxication,S08000030,count,474
+2015/2016,Acute Intoxication,S08000031,count,2190
+2015/2016,Acute Intoxication,S08000032,count,1059
+2015/2016,Alcohol Dependence syndrome,S08000015,count,396
+2015/2016,Alcohol Dependence syndrome,S08000016,count,39
+2015/2016,Alcohol Dependence syndrome,S08000017,count,102
+2015/2016,Alcohol Dependence syndrome,S08000019,count,279
+2015/2016,Alcohol Dependence syndrome,S08000020,count,420
+2015/2016,Alcohol Dependence syndrome,S08000022,count,366
+2015/2016,Alcohol Dependence syndrome,S08000024,count,408
+2015/2016,Alcohol Dependence syndrome,S08000025,count,69
+2015/2016,Alcohol Dependence syndrome,S08000026,count,12
+2015/2016,Alcohol Dependence syndrome,S08000028,count,24
+2015/2016,Alcohol Dependence syndrome,S08000029,count,210
+2015/2016,Alcohol Dependence syndrome,S08000030,count,459
+2015/2016,Alcohol Dependence syndrome,S08000031,count,1005
+2015/2016,Alcohol Dependence syndrome,S08000032,count,450
+2015/2016,Cirrhosis,S08000015,count,165
+2015/2016,Cirrhosis,S08000016,count,18
+2015/2016,Cirrhosis,S08000017,count,75
+2015/2016,Cirrhosis,S08000019,count,108
+2015/2016,Cirrhosis,S08000020,count,357
+2015/2016,Cirrhosis,S08000022,count,192
+2015/2016,Cirrhosis,S08000024,count,741
+2015/2016,Cirrhosis,S08000025,count,12
+2015/2016,Cirrhosis,S08000026,count,9
+2015/2016,Cirrhosis,S08000028,count,12
+2015/2016,Cirrhosis,S08000029,count,168
+2015/2016,Cirrhosis,S08000030,count,126
+2015/2016,Cirrhosis,S08000031,count,1083
+2015/2016,Cirrhosis,S08000032,count,402
+2015/2016,Harmful Use,S08000015,count,852
+2015/2016,Harmful Use,S08000016,count,147
+2015/2016,Harmful Use,S08000017,count,51
+2015/2016,Harmful Use,S08000019,count,288
+2015/2016,Harmful Use,S08000020,count,660
+2015/2016,Harmful Use,S08000022,count,747
+2015/2016,Harmful Use,S08000024,count,1515
+2015/2016,Harmful Use,S08000025,count,15
+2015/2016,Harmful Use,S08000026,count,39
+2015/2016,Harmful Use,S08000028,count,24
+2015/2016,Harmful Use,S08000029,count,615
+2015/2016,Harmful Use,S08000030,count,411
+2015/2016,Harmful Use,S08000031,count,3798
+2015/2016,Harmful Use,S08000032,count,1545
+2015/2016,Toxic Effects of Alcohol,S08000015,count,234
+2015/2016,Toxic Effects of Alcohol,S08000016,count,45
+2015/2016,Toxic Effects of Alcohol,S08000017,count,90
+2015/2016,Toxic Effects of Alcohol,S08000019,count,108
+2015/2016,Toxic Effects of Alcohol,S08000020,count,333
+2015/2016,Toxic Effects of Alcohol,S08000022,count,162
+2015/2016,Toxic Effects of Alcohol,S08000024,count,489
+2015/2016,Toxic Effects of Alcohol,S08000025,count,21
+2015/2016,Toxic Effects of Alcohol,S08000026,count,9
+2015/2016,Toxic Effects of Alcohol,S08000028,count,15
+2015/2016,Toxic Effects of Alcohol,S08000029,count,252
+2015/2016,Toxic Effects of Alcohol,S08000030,count,105
+2015/2016,Toxic Effects of Alcohol,S08000031,count,585
+2015/2016,Toxic Effects of Alcohol,S08000032,count,204
+2015/2016,Unspecified,S08000015,count,270
+2015/2016,Unspecified,S08000016,count,54
+2015/2016,Unspecified,S08000017,count,78
+2015/2016,Unspecified,S08000019,count,165
+2015/2016,Unspecified,S08000020,count,159
+2015/2016,Unspecified,S08000022,count,153
+2015/2016,Unspecified,S08000024,count,204
+2015/2016,Unspecified,S08000025,count,15
+2015/2016,Unspecified,S08000026,count,3
+2015/2016,Unspecified,S08000028,count,9
+2015/2016,Unspecified,S08000029,count,135
+2015/2016,Unspecified,S08000030,count,171
+2015/2016,Unspecified,S08000031,count,861
+2015/2016,Unspecified,S08000032,count,528
+2015/2016,Withdrawal state,S08000015,count,405
+2015/2016,Withdrawal state,S08000016,count,72
+2015/2016,Withdrawal state,S08000017,count,90
+2015/2016,Withdrawal state,S08000019,count,270
+2015/2016,Withdrawal state,S08000020,count,456
+2015/2016,Withdrawal state,S08000022,count,318
+2015/2016,Withdrawal state,S08000024,count,606
+2015/2016,Withdrawal state,S08000025,count,9
+2015/2016,Withdrawal state,S08000026,count,18
+2015/2016,Withdrawal state,S08000028,count,42
+2015/2016,Withdrawal state,S08000029,count,240
+2015/2016,Withdrawal state,S08000030,count,246
+2015/2016,Withdrawal state,S08000031,count,2481
+2015/2016,Withdrawal state,S08000032,count,852
+2016/2017,Acute Intoxication,S08000015,count,732
+2016/2017,Acute Intoxication,S08000016,count,120
+2016/2017,Acute Intoxication,S08000017,count,135
+2016/2017,Acute Intoxication,S08000019,count,408
+2016/2017,Acute Intoxication,S08000020,count,837
+2016/2017,Acute Intoxication,S08000022,count,435
+2016/2017,Acute Intoxication,S08000024,count,1011
+2016/2017,Acute Intoxication,S08000025,count,36
+2016/2017,Acute Intoxication,S08000026,count,72
+2016/2017,Acute Intoxication,S08000028,count,72
+2016/2017,Acute Intoxication,S08000029,count,684
+2016/2017,Acute Intoxication,S08000030,count,468
+2016/2017,Acute Intoxication,S08000031,count,2742
+2016/2017,Acute Intoxication,S08000032,count,945
+2016/2017,Alcohol Dependence syndrome,S08000015,count,402
+2016/2017,Alcohol Dependence syndrome,S08000016,count,42
+2016/2017,Alcohol Dependence syndrome,S08000017,count,141
+2016/2017,Alcohol Dependence syndrome,S08000019,count,210
+2016/2017,Alcohol Dependence syndrome,S08000020,count,450
+2016/2017,Alcohol Dependence syndrome,S08000022,count,369
+2016/2017,Alcohol Dependence syndrome,S08000024,count,396
+2016/2017,Alcohol Dependence syndrome,S08000025,count,63
+2016/2017,Alcohol Dependence syndrome,S08000026,count,18
+2016/2017,Alcohol Dependence syndrome,S08000028,count,18
+2016/2017,Alcohol Dependence syndrome,S08000029,count,225
+2016/2017,Alcohol Dependence syndrome,S08000030,count,438
+2016/2017,Alcohol Dependence syndrome,S08000031,count,1065
+2016/2017,Alcohol Dependence syndrome,S08000032,count,246
+2016/2017,Cirrhosis,S08000015,count,216
+2016/2017,Cirrhosis,S08000016,count,39
+2016/2017,Cirrhosis,S08000017,count,54
+2016/2017,Cirrhosis,S08000019,count,90
+2016/2017,Cirrhosis,S08000020,count,291
+2016/2017,Cirrhosis,S08000022,count,162
+2016/2017,Cirrhosis,S08000024,count,864
+2016/2017,Cirrhosis,S08000025,count,12
+2016/2017,Cirrhosis,S08000026,count,6
+2016/2017,Cirrhosis,S08000028,count,9
+2016/2017,Cirrhosis,S08000029,count,210
+2016/2017,Cirrhosis,S08000030,count,192
+2016/2017,Cirrhosis,S08000031,count,1239
+2016/2017,Cirrhosis,S08000032,count,432
+2016/2017,Harmful Use,S08000015,count,912
+2016/2017,Harmful Use,S08000016,count,150
+2016/2017,Harmful Use,S08000017,count,45
+2016/2017,Harmful Use,S08000019,count,264
+2016/2017,Harmful Use,S08000020,count,627
+2016/2017,Harmful Use,S08000022,count,699
+2016/2017,Harmful Use,S08000024,count,1392
+2016/2017,Harmful Use,S08000025,count,6
+2016/2017,Harmful Use,S08000026,count,21
+2016/2017,Harmful Use,S08000028,count,39
+2016/2017,Harmful Use,S08000029,count,678
+2016/2017,Harmful Use,S08000030,count,360
+2016/2017,Harmful Use,S08000031,count,3660
+2016/2017,Harmful Use,S08000032,count,1914
+2016/2017,Toxic Effects of Alcohol,S08000015,count,258
+2016/2017,Toxic Effects of Alcohol,S08000016,count,60
+2016/2017,Toxic Effects of Alcohol,S08000017,count,75
+2016/2017,Toxic Effects of Alcohol,S08000019,count,90
+2016/2017,Toxic Effects of Alcohol,S08000020,count,321
+2016/2017,Toxic Effects of Alcohol,S08000022,count,129
+2016/2017,Toxic Effects of Alcohol,S08000024,count,411
+2016/2017,Toxic Effects of Alcohol,S08000025,count,9
+2016/2017,Toxic Effects of Alcohol,S08000026,count,3
+2016/2017,Toxic Effects of Alcohol,S08000028,count,15
+2016/2017,Toxic Effects of Alcohol,S08000029,count,279
+2016/2017,Toxic Effects of Alcohol,S08000030,count,111
+2016/2017,Toxic Effects of Alcohol,S08000031,count,564
+2016/2017,Toxic Effects of Alcohol,S08000032,count,252
+2016/2017,Unspecified,S08000015,count,246
+2016/2017,Unspecified,S08000016,count,39
+2016/2017,Unspecified,S08000017,count,57
+2016/2017,Unspecified,S08000019,count,132
+2016/2017,Unspecified,S08000020,count,153
+2016/2017,Unspecified,S08000022,count,144
+2016/2017,Unspecified,S08000024,count,240
+2016/2017,Unspecified,S08000025,count,9
+2016/2017,Unspecified,S08000026,count,0
+2016/2017,Unspecified,S08000028,count,6
+2016/2017,Unspecified,S08000029,count,114
+2016/2017,Unspecified,S08000030,count,201
+2016/2017,Unspecified,S08000031,count,867
+2016/2017,Unspecified,S08000032,count,558
+2016/2017,Withdrawal state,S08000015,count,486
+2016/2017,Withdrawal state,S08000016,count,72
+2016/2017,Withdrawal state,S08000017,count,90
+2016/2017,Withdrawal state,S08000019,count,264
+2016/2017,Withdrawal state,S08000020,count,528
+2016/2017,Withdrawal state,S08000022,count,330
+2016/2017,Withdrawal state,S08000024,count,648
+2016/2017,Withdrawal state,S08000025,count,12
+2016/2017,Withdrawal state,S08000026,count,18
+2016/2017,Withdrawal state,S08000028,count,45
+2016/2017,Withdrawal state,S08000029,count,255
+2016/2017,Withdrawal state,S08000030,count,219
+2016/2017,Withdrawal state,S08000031,count,2778
+2016/2017,Withdrawal state,S08000032,count,855
+2017/2018,Acute Intoxication,S08000015,count,762
+2017/2018,Acute Intoxication,S08000016,count,123
+2017/2018,Acute Intoxication,S08000017,count,144
+2017/2018,Acute Intoxication,S08000019,count,477
+2017/2018,Acute Intoxication,S08000020,count,837
+2017/2018,Acute Intoxication,S08000022,count,453
+2017/2018,Acute Intoxication,S08000024,count,873
+2017/2018,Acute Intoxication,S08000025,count,39
+2017/2018,Acute Intoxication,S08000026,count,51
+2017/2018,Acute Intoxication,S08000028,count,78
+2017/2018,Acute Intoxication,S08000029,count,756
+2017/2018,Acute Intoxication,S08000030,count,495
+2017/2018,Acute Intoxication,S08000031,count,2427
+2017/2018,Acute Intoxication,S08000032,count,1035
+2017/2018,Alcohol Dependence syndrome,S08000015,count,507
+2017/2018,Alcohol Dependence syndrome,S08000016,count,39
+2017/2018,Alcohol Dependence syndrome,S08000017,count,120
+2017/2018,Alcohol Dependence syndrome,S08000019,count,267
+2017/2018,Alcohol Dependence syndrome,S08000020,count,450
+2017/2018,Alcohol Dependence syndrome,S08000022,count,315
+2017/2018,Alcohol Dependence syndrome,S08000024,count,423
+2017/2018,Alcohol Dependence syndrome,S08000025,count,60
+2017/2018,Alcohol Dependence syndrome,S08000026,count,33
+2017/2018,Alcohol Dependence syndrome,S08000028,count,18
+2017/2018,Alcohol Dependence syndrome,S08000029,count,204
+2017/2018,Alcohol Dependence syndrome,S08000030,count,402
+2017/2018,Alcohol Dependence syndrome,S08000031,count,834
+2017/2018,Alcohol Dependence syndrome,S08000032,count,354
+2017/2018,Cirrhosis,S08000015,count,216
+2017/2018,Cirrhosis,S08000016,count,48
+2017/2018,Cirrhosis,S08000017,count,84
+2017/2018,Cirrhosis,S08000019,count,93
+2017/2018,Cirrhosis,S08000020,count,333
+2017/2018,Cirrhosis,S08000022,count,195
+2017/2018,Cirrhosis,S08000024,count,774
+2017/2018,Cirrhosis,S08000025,count,15
+2017/2018,Cirrhosis,S08000026,count,9
+2017/2018,Cirrhosis,S08000028,count,9
+2017/2018,Cirrhosis,S08000029,count,234
+2017/2018,Cirrhosis,S08000030,count,261
+2017/2018,Cirrhosis,S08000031,count,1278
+2017/2018,Cirrhosis,S08000032,count,486
+2017/2018,Harmful Use,S08000015,count,750
+2017/2018,Harmful Use,S08000016,count,147
+2017/2018,Harmful Use,S08000017,count,60
+2017/2018,Harmful Use,S08000019,count,315
+2017/2018,Harmful Use,S08000020,count,528
+2017/2018,Harmful Use,S08000022,count,687
+2017/2018,Harmful Use,S08000024,count,1326
+2017/2018,Harmful Use,S08000025,count,24
+2017/2018,Harmful Use,S08000026,count,30
+2017/2018,Harmful Use,S08000028,count,48
+2017/2018,Harmful Use,S08000029,count,684
+2017/2018,Harmful Use,S08000030,count,297
+2017/2018,Harmful Use,S08000031,count,3111
+2017/2018,Harmful Use,S08000032,count,2058
+2017/2018,Toxic Effects of Alcohol,S08000015,count,222
+2017/2018,Toxic Effects of Alcohol,S08000016,count,36
+2017/2018,Toxic Effects of Alcohol,S08000017,count,72
+2017/2018,Toxic Effects of Alcohol,S08000019,count,57
+2017/2018,Toxic Effects of Alcohol,S08000020,count,297
+2017/2018,Toxic Effects of Alcohol,S08000022,count,144
+2017/2018,Toxic Effects of Alcohol,S08000024,count,465
+2017/2018,Toxic Effects of Alcohol,S08000025,count,18
+2017/2018,Toxic Effects of Alcohol,S08000026,count,3
+2017/2018,Toxic Effects of Alcohol,S08000028,count,15
+2017/2018,Toxic Effects of Alcohol,S08000029,count,303
+2017/2018,Toxic Effects of Alcohol,S08000030,count,102
+2017/2018,Toxic Effects of Alcohol,S08000031,count,438
+2017/2018,Toxic Effects of Alcohol,S08000032,count,276
+2017/2018,Unspecified,S08000015,count,228
+2017/2018,Unspecified,S08000016,count,24
+2017/2018,Unspecified,S08000017,count,54
+2017/2018,Unspecified,S08000019,count,141
+2017/2018,Unspecified,S08000020,count,177
+2017/2018,Unspecified,S08000022,count,132
+2017/2018,Unspecified,S08000024,count,225
+2017/2018,Unspecified,S08000025,count,9
+2017/2018,Unspecified,S08000026,count,6
+2017/2018,Unspecified,S08000028,count,0
+2017/2018,Unspecified,S08000029,count,102
+2017/2018,Unspecified,S08000030,count,174
+2017/2018,Unspecified,S08000031,count,801
+2017/2018,Unspecified,S08000032,count,480
+2017/2018,Withdrawal state,S08000015,count,444
+2017/2018,Withdrawal state,S08000016,count,63
+2017/2018,Withdrawal state,S08000017,count,96
+2017/2018,Withdrawal state,S08000019,count,270
+2017/2018,Withdrawal state,S08000020,count,498
+2017/2018,Withdrawal state,S08000022,count,294
+2017/2018,Withdrawal state,S08000024,count,609
+2017/2018,Withdrawal state,S08000025,count,24
+2017/2018,Withdrawal state,S08000026,count,18
+2017/2018,Withdrawal state,S08000028,count,30
+2017/2018,Withdrawal state,S08000029,count,249
+2017/2018,Withdrawal state,S08000030,count,282
+2017/2018,Withdrawal state,S08000031,count,2862
+2017/2018,Withdrawal state,S08000032,count,876
+2018/2019,Acute Intoxication,S08000015,count,786
+2018/2019,Acute Intoxication,S08000016,count,156
+2018/2019,Acute Intoxication,S08000017,count,162
+2018/2019,Acute Intoxication,S08000019,count,417
+2018/2019,Acute Intoxication,S08000020,count,810
+2018/2019,Acute Intoxication,S08000022,count,501
+2018/2019,Acute Intoxication,S08000024,count,1224
+2018/2019,Acute Intoxication,S08000025,count,36
+2018/2019,Acute Intoxication,S08000026,count,42
+2018/2019,Acute Intoxication,S08000028,count,111
+2018/2019,Acute Intoxication,S08000029,count,810
+2018/2019,Acute Intoxication,S08000030,count,567
+2018/2019,Acute Intoxication,S08000031,count,2562
+2018/2019,Acute Intoxication,S08000032,count,1098
+2018/2019,Alcohol Dependence syndrome,S08000015,count,555
+2018/2019,Alcohol Dependence syndrome,S08000016,count,51
+2018/2019,Alcohol Dependence syndrome,S08000017,count,117
+2018/2019,Alcohol Dependence syndrome,S08000019,count,294
+2018/2019,Alcohol Dependence syndrome,S08000020,count,447
+2018/2019,Alcohol Dependence syndrome,S08000022,count,255
+2018/2019,Alcohol Dependence syndrome,S08000024,count,360
+2018/2019,Alcohol Dependence syndrome,S08000025,count,39
+2018/2019,Alcohol Dependence syndrome,S08000026,count,24
+2018/2019,Alcohol Dependence syndrome,S08000028,count,30
+2018/2019,Alcohol Dependence syndrome,S08000029,count,201
+2018/2019,Alcohol Dependence syndrome,S08000030,count,438
+2018/2019,Alcohol Dependence syndrome,S08000031,count,714
+2018/2019,Alcohol Dependence syndrome,S08000032,count,498
+2018/2019,Cirrhosis,S08000015,count,273
+2018/2019,Cirrhosis,S08000016,count,48
+2018/2019,Cirrhosis,S08000017,count,60
+2018/2019,Cirrhosis,S08000019,count,135
+2018/2019,Cirrhosis,S08000020,count,303
+2018/2019,Cirrhosis,S08000022,count,195
+2018/2019,Cirrhosis,S08000024,count,681
+2018/2019,Cirrhosis,S08000025,count,30
+2018/2019,Cirrhosis,S08000026,count,12
+2018/2019,Cirrhosis,S08000028,count,6
+2018/2019,Cirrhosis,S08000029,count,282
+2018/2019,Cirrhosis,S08000030,count,270
+2018/2019,Cirrhosis,S08000031,count,1149
+2018/2019,Cirrhosis,S08000032,count,495
+2018/2019,Harmful Use,S08000015,count,663
+2018/2019,Harmful Use,S08000016,count,126
+2018/2019,Harmful Use,S08000017,count,57
+2018/2019,Harmful Use,S08000019,count,312
+2018/2019,Harmful Use,S08000020,count,540
+2018/2019,Harmful Use,S08000022,count,762
+2018/2019,Harmful Use,S08000024,count,1158
+2018/2019,Harmful Use,S08000025,count,27
+2018/2019,Harmful Use,S08000026,count,33
+2018/2019,Harmful Use,S08000028,count,63
+2018/2019,Harmful Use,S08000029,count,663
+2018/2019,Harmful Use,S08000030,count,324
+2018/2019,Harmful Use,S08000031,count,2928
+2018/2019,Harmful Use,S08000032,count,2055
+2018/2019,Toxic Effects of Alcohol,S08000015,count,156
+2018/2019,Toxic Effects of Alcohol,S08000016,count,45
+2018/2019,Toxic Effects of Alcohol,S08000017,count,78
+2018/2019,Toxic Effects of Alcohol,S08000019,count,39
+2018/2019,Toxic Effects of Alcohol,S08000020,count,390
+2018/2019,Toxic Effects of Alcohol,S08000022,count,168
+2018/2019,Toxic Effects of Alcohol,S08000024,count,462
+2018/2019,Toxic Effects of Alcohol,S08000025,count,12
+2018/2019,Toxic Effects of Alcohol,S08000026,count,0
+2018/2019,Toxic Effects of Alcohol,S08000028,count,24
+2018/2019,Toxic Effects of Alcohol,S08000029,count,321
+2018/2019,Toxic Effects of Alcohol,S08000030,count,120
+2018/2019,Toxic Effects of Alcohol,S08000031,count,483
+2018/2019,Toxic Effects of Alcohol,S08000032,count,285
+2018/2019,Unspecified,S08000015,count,228
+2018/2019,Unspecified,S08000016,count,33
+2018/2019,Unspecified,S08000017,count,39
+2018/2019,Unspecified,S08000019,count,114
+2018/2019,Unspecified,S08000020,count,153
+2018/2019,Unspecified,S08000022,count,114
+2018/2019,Unspecified,S08000024,count,150
+2018/2019,Unspecified,S08000025,count,9
+2018/2019,Unspecified,S08000026,count,12
+2018/2019,Unspecified,S08000028,count,0
+2018/2019,Unspecified,S08000029,count,105
+2018/2019,Unspecified,S08000030,count,147
+2018/2019,Unspecified,S08000031,count,591
+2018/2019,Unspecified,S08000032,count,423
+2018/2019,Withdrawal state,S08000015,count,459
+2018/2019,Withdrawal state,S08000016,count,84
+2018/2019,Withdrawal state,S08000017,count,78
+2018/2019,Withdrawal state,S08000019,count,312
+2018/2019,Withdrawal state,S08000020,count,504
+2018/2019,Withdrawal state,S08000022,count,342
+2018/2019,Withdrawal state,S08000024,count,636
+2018/2019,Withdrawal state,S08000025,count,33
+2018/2019,Withdrawal state,S08000026,count,15
+2018/2019,Withdrawal state,S08000028,count,42
+2018/2019,Withdrawal state,S08000029,count,258
+2018/2019,Withdrawal state,S08000030,count,264
+2018/2019,Withdrawal state,S08000031,count,2709
+2018/2019,Withdrawal state,S08000032,count,993

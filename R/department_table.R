@@ -3,8 +3,8 @@ create_department_table <- function(input, output) {
   hospital_data <- eventReactive(input$update,{
     
     department_data %>%
-      filter(department == input$department)  %>%
-      filter(financial_year == input$year) %>%
+      filter(financial_year == input$year_department) %>% 
+      filter(department == input$department) %>%
       slice(1:10)
     
   })

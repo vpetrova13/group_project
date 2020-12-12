@@ -8,9 +8,9 @@ library(DT)
 library(sf)
 # general <- read_csv()
 
-
 general_age_sex <- read_csv("data/sex_age_clean_data.csv")
-alcohol_table <- read_csv("data/clean_alcohol.csv")
+alcohol_table <- read_csv("data/clean_alcohol.csv") %>% 
+  filter(value_per_one_hundred_thousand_people > 0) 
 department_data <- read_csv("data/department_clean_data.csv") %>% 
   filter(stays > 0, average_no_of_nights > 0) 
 general_age_sex <- read_csv("data/sex_age_clean_data.csv")
@@ -22,3 +22,6 @@ hb_map <- st_read("data/SG_NHS_HealthBoards_2019/SG_NHS_HealthBoards_2019.shp") 
   select(-Shape_Leng, -Shape_Area)
 alcohol_map_data <- full_join(alcohol_clean_data, hb_map, by = c("hb_assign" = "HBCode")) 
 
+#Map for count - joining two data
+alcohol_count_data <- read_csv("data/clean_count_map.csv")
+alcohol_count_map <- full_join(alcohol_count_data, hb_map, by = c("hb_assign" = "HBCode")) 

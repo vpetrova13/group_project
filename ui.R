@@ -74,9 +74,10 @@ ui <- dashboardPage(
 
             
             #####
-            selectInput("year",
+            selectInput("year_department",
                         label = h4("Select Year"),
-                        choices = unique(department_data$financial_year)),
+                        choices = unique(department_data$financial_year), 
+                        selected = "2019/20"),
             
             selectInput("department",
                         label = h4("Select Department"),
@@ -175,7 +176,8 @@ ui <- dashboardPage(
                    width = NULL,
                    selectInput("date_code",
                               label = h4("Select Year"), 
-                              choices = unique(alcohol_table$date_code)
+                              choices = unique(alcohol_table$date_code), 
+                              selected = "2018/2019"
                    )
                  ),
                  box(
