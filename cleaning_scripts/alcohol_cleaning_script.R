@@ -2,8 +2,11 @@
 library(tidyverse)
 library(janitor)
 
+# Source ----
+source("cleaning_scripts/config.R")
+
 # alcohol cleaning script ---------------------------------------------------
-alcohol <- read_csv("data/alcohol_related_hospital_statistics.csv")
+alcohol <- read_csv("raw_data/alcohol_related_hospital_statistics.csv")
 
 # clean column names
 clean_names_alcohol <- clean_names(alcohol)
@@ -47,5 +50,4 @@ clean_alcohol <- clean_names_alcohol %>%
   rename(value_per_one_hundred_thousand_people = value)
 
 
-
-filtered_alcohol
+write_csv(clean_alcohol, "clean_data/clean_alcohol.csv")
