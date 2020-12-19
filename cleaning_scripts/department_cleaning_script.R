@@ -2,9 +2,11 @@
 library(tidyverse)
 library(janitor)
 
+# Source ----
+source("cleaning_scripts/config.R")
 #reading csv 
 
-specialty <- read_csv("data/inpatient-and-daycase_by_nhs-board-of-treatment_specialty.csv") %>% 
+specialty <- read_csv("raw_data/activity_specialty.csv") %>% 
   clean_names()
 
 
@@ -12,7 +14,7 @@ specialty <- read_csv("data/inpatient-and-daycase_by_nhs-board-of-treatment_spec
 
 department <- specialty %>% 
   select(financial_year, admission_type, hb, specialty_name, stays, average_lengthof_stay_rate) %>% 
-  filter(hb == "S92000003")
+  filter(hb == scotland_hb)
 
 #filtering on admission type
 

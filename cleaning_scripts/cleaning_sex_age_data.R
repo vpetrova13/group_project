@@ -1,12 +1,17 @@
 library(tidyverse)
 library(janitor)
 
-sex_age_raw <- read_csv("../raw_data/activity_age_sex.csv") %>% filter(HB == "S92000003")
-deprivaton_raw <- read_csv("../raw_data/activity_deprivation.csv") %>% filter(HB == "S92000003")
-specialty_raw <- read_csv("../raw_data/activity_specialty.csv") %>% filter(HB == "S92000003")
+# Source ----
+source("cleaning_scripts/config.R")
+
+#Filter Scotland data (HB = SB92000003)
+sex_age_raw <- read_csv("../raw_data/activity_age_sex.csv") %>% filter(HB == scotland_hb)
+deprivaton_raw <- read_csv("../raw_data/activity_deprivation.csv") %>% filter(HB == scotland_hb)
+specialty_raw <- read_csv("../raw_data/activity_specialty.csv") %>% filter(HB == scotland_hb)
 
 names(sex_age_raw)
 
+#Select necessary columns for further analysis
 sex_age_data <- sex_age_raw %>% 
   select(1, FinancialYear, AdmissionType, HB, Age, Sex, Episodes, Stays, TotalLengthofEpisode, TotalLengthofStay, AverageLengthofEpisodeRate, AverageLengthofStayRate, Patients) %>% 
   clean_names() %>% 

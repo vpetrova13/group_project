@@ -9,6 +9,7 @@ source("cleaning_scripts/config.R")
 alcohol <- read_csv("raw_data/alcohol_related_hospital_statistics.csv")
 
 # clean column names
+
 clean_names_alcohol <- clean_names(alcohol)
 
 # date group 2010-2019
@@ -17,10 +18,7 @@ clean_alcohol <- clean_names_alcohol %>%
   filter(date_code %in% c("2010/2011", "2011/2012", "2012/2013", "2013/2014", 
                           "2014/2015", "2015/2016", "2016/2017", "2017/2018", 
                           "2018/2019")) %>%
-  filter(feature_code %in% c("S08000020", "S08000030", "S08000022", "S08000019",
-                             "S08000017", "S08000015", "S08000031", "S08000024", 
-                             "S08000028", "S08000029", "S08000032", "S08000025",
-                             "S08000016", "S08000026")) %>%
+  filter(feature_code %in% hb_interest) %>%
   filter(measurement == "Ratio") %>%
   filter(type_of_hospital != "All") %>%
   filter(alcohol_related_hospital_activity == "Stays") %>%
