@@ -17,7 +17,7 @@ general_age_sex <- read_csv("clean_data/sex_age_clean_data.csv")
 
 #Map and graph - joining two data
 alcohol_clean_data <- read_csv("clean_data/alcohol_clean_for_map_data.csv")
-hb_map <- st_read("clean_data/SG_NHS_HealthBoards_2019/SG_NHS_HealthBoards_2019.shp") %>% 
+hb_map <- st_read("raw_data/SG_NHS_HealthBoards_2019/SG_NHS_HealthBoards_2019.shp") %>% 
   st_simplify(dTolerance = 2000) %>% 
   select(-Shape_Leng, -Shape_Area)
 alcohol_map_data <- full_join(alcohol_clean_data, hb_map, by = c("hb_assign" = "HBCode")) 

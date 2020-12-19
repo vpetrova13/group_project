@@ -12,7 +12,7 @@ alcohol <- read_csv("raw_data/alcohol_related_hospital_statistics.csv")
 clean_names_alcohol <- clean_names(alcohol)
 
 # date group 2010-2019
-# grouping by health board and scotland feature_codes 
+# grouping by health board and Scotland feature_codes 
 clean_alcohol <- clean_names_alcohol %>%
   filter(date_code %in% c("2010/2011", "2011/2012", "2012/2013", "2013/2014", 
                           "2014/2015", "2015/2016", "2016/2017", "2017/2018", 
