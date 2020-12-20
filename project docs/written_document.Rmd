@@ -24,13 +24,11 @@ for tab 1 (overview), she also did tab 2 (spatial data) which is spatial data an
 (overview), he also started the work on the presentation and map, whilst also creating
 Trello page.
 
-Everyone worked on different elements in the dashboard and overall collaborative 
-approach.
+Everyone worked on different elements in the dashboard and overall collaborative approach.
 
 ### Brief description of dashboard topic
 
-Our dashboard contains the visualisation of the annual number of inpatient stays in hospitals for the last 10 years in Scotland which can be further splitted by gender,
-sex and specialty.
+Our dashboard contains the visualisation of the annual number of inpatient stays in hospitals for the last 10 years in Scotland which can be further differentiated by gender, sex and specialty.
 
 Our health topic is focused on conditions that are caused by the abuse of alcohol. 
 It shows that different health boards have various rate of stays caused by different
