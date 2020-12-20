@@ -13,8 +13,11 @@ Project was made in R.
 The link for the app can be found [here](https://veronika13.shinyapps.io/group_project).
 
 ## Images 
-### First tab
+### First tab - Overview of inpatients 
 ![1st_tab_plot_gender.png](https://github.com/vpetrova13/group_project/blob/master/images/1st_tab_plot_gender.png)
+
+![1st_tab_plot_table.png](https://github.com/vpetrova13/group_project/blob/master/images/1st_tab_plot_table.png)
+
 ## Packages
 
 Package | Version | 
