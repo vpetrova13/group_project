@@ -50,8 +50,8 @@ Both datasets required some cleaning and wrangling. Using filter function from t
 ![Third tab - Regional](images/3rd_tab_table.png)
 
 ## Packages
-| Package | Version | 
---- | --- | 
+| Package      | Version    
+| :------------- | :----------: 
 base R | 3.6.0 |
 DT | 0.16 | 
 dplyr | 1.0.2 |
