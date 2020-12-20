@@ -29,13 +29,15 @@ approach.
 
 ### Brief description of dashboard topic
 
-Our dashboard contains the visualisation of the annual number of inpatient stays in hospitals for the last 10 years in Scotland.
+Our dashboard contains the visualisation of the annual number of inpatient stays in hospitals for the last 10 years in Scotland which can be further splitted by gender,
+sex and specialty.
 
 Our health topic is focused on conditions that are caused by the abuse of alcohol. 
 It shows that different health boards have various rate of stays caused by different
 conditions related to alcohol. It helps the NHS and public health Scotland identify
 which areas taken the highest proportion of patients that have conditions that are 
-alcohol related (either mental or physical).
+alcohol related (either mental or physical). Alcohol related conditions treated by
+Scottish hospitals and displayed geographically by NHS health boards. 
 
 ### Stages of the project
 
@@ -48,8 +50,8 @@ Sat/Sun - Data cleaning, wrangling and plotting
 Mon - wrangling of new data, skeleton for dashboard, 'client Q&A'
 Tue - start dashboard and individual plots (tabs)
 Wed - merge using git and create map together, start presentation
-Thur - prepare presentation, rehearse, finalise dashboard, fill the written document
-Friday - the day of presentation
+Thur - prepare presentation, rehearse it, finalise dashboard, fill the written document
+Friday - the day of group presentation
 
 
 ### Which tools were used in the project
@@ -79,13 +81,14 @@ time frame of general health population and specific health problem.
 We used the dataset on clinical admissions (by age, sex and department) to answer 
 the amount of admissions and length of stays (count and ratio) and because it was 
 fairly tidy data to work with and it was covering the last 10 year period (no 
-missing data).
+missing data). Alcohol related hospital data was also chosen as it has the possibility
+to show variations between different NHS health boards.
 
 ### Data quality and potential bias, including a brief summary of data cleaning and transformations
 
 There was a short description of the data but to understand the quality, we had to
 investigate the data ourselves. After investigation, we determined the data was
-a good quality. Based on the data sources, we can conclude that the data is not 
+a good quality. The data quality was also checked by Information Services Division (ISD). Based on the data sources, we can conclude that the data is not 
 biased.
 
 To clean the datasets we used janitor (clean_names) and tidyverse package to fulfill 
@@ -99,13 +102,15 @@ The data on statistics.gov.scot is in the form of linked data.
 This means that data is linked to other datasets and very powerful in terms of 
 quick findings. 
 
-Benefits of storing the data like this are easy updating between various sources.
+Benefits of storing the data like this are easy updating between various sources,
+data is stored in defined schema, IDs are unique as stored as url's.
 
 
 ### Ethical and legal considerations of the data
 
 It is ethically acceptable because it is legally open data and does not contain any 
-personal data of individuals.
+personal data of individuals. As the data came from NHS health boards, it has been 
+assumed that every data provider confirmed their consent. 
 
 The datasets are covered by the Open Government License, which means they are free
 to be copied, published, distributed and transmitted. It is free to adapt the Information and exploit it commercially or non-commercially. 

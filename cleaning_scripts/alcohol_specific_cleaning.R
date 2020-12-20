@@ -69,4 +69,16 @@ alc_data
 
 unique(alc_data$year)
 
+#Write data for plot
 write_csv(alc_data, "alcohol_clean_for_map_data.csv")
+
+#Requires data to show count on map so a new csv file with showing total counts by
+#NHS health boards was created. It was done as it does not allow to do calculations
+#when plotting the map
+
+count_data <- alc_data %>% 
+  filter(measurement == "count") %>% 
+  group_by(year, alcohol_condition, hb_assign, measurement) %>% 
+  summarise(total = sum(value)) 
+
+write_csv(count_data, "clean_count_map.csv")
